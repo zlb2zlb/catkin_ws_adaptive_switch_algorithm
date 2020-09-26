@@ -151,13 +151,12 @@ def pub_self_costmap(msg):
 
 def switch_algorithmn():
     # 根据得到的 障碍物数
-    global count_obstacle_pix,len_self_costmap_data
+    global count_obstacle_pix,len_self_costmap_data,base_global_planner
     rospy.loginfo("--------------------------into switch_algorithmn----------------------------------")
     base_global_planner = "" # 算法
     base_local_planner = ""
     rospy.loginfo(1.0*count_obstacle_pix/len_self_costmap_data)
     if 1.0*count_obstacle_pix/len_self_costmap_data < 0.10:
-        global base_global_planner
         base_global_planner = "global_planner/GlobalPlanner"
         base_local_planner = "base_local_planner/TrajectoryPlannerROS"
         rospy.loginfo("global_planner/GlobalPlanner")

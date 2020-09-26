@@ -16,7 +16,7 @@ from std_msgs.msg import String
 
 # from tf.transformations import euler_from_quanternion
 import tf2_ros
-import tf_quaternion
+# import tf_quaternion
 from tf.transformations import euler_from_quaternion
 import numpy as np
 

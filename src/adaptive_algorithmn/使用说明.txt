@@ -41,12 +41,12 @@
 			启动roscore
 				roscore
 			启动tl1.py,以提供评价函数pv
-      	  python tl1.py
+      	  python src/adaptive_algorithmn/scripts/tl1.py
     	启动test_kkk.py,以提供威胁程度计算
-      	  python test_kkk.py
+      	  python src/adaptive_algorithmn/scripts/test_kkk.py
     	启动count_obstacles.py,以提供障碍物信息计算
-      	  python count_obstacles.py
+      	  python src/adaptive_algorithmn/scripts/count_obstacles.py
     	启动test_auto_plan_evaluation.py,以开启gazebo rviz开始跑程序
-      	  python test_auto_plan_evaluation.py
+      	  python src/adaptive_algorithmn/scripts/test_auto_plan_evaluation.py
 
 当rviz或者gazebo出现异常时,需要将启动auto_plan_evaluation.py的终端关闭,并查看file_name中的记录确定自己已经跑到哪一个文件了将其设为world_number_start
