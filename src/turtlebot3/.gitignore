@@ -58,4 +58,4 @@ build-*/
 *.dat
 *.txt.user
 *.gch
-src/adaptive_algorithmn/maps/
+src/adaptive_algorithm/maps/
