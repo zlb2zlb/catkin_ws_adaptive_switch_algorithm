@@ -1,0 +1,2 @@
+# catkin_ws_adaptive_switch_algorithm
+自动选择算法
