@@ -1,0 +1,132 @@
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine: global_planner/GlobalPlanner + eband_local_planner/EBandPlannerROS
+plan_evaluation: 326.588756662
+excution_time: 12.2874000072
+cost_time: 10.97
+ ------------ 
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 248.052181053
+excution_time: 19.491132021
+cost_time: 18.06
+ ------------ 
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine: global_planner/GlobalPlanner + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 1247.98514152
+excution_time: 10.5305140018
+cost_time: 9.7
+ ------------ 
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine: navfn/NavfnROS + eband_local_planner/EBandPlannerROS
+plan_evaluation: 0
+excution_time: 10.5305140018
+cost_time: 60.0
+ ------------ 
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine: navfn/NavfnROS + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 120.916935916
+excution_time: 18.2657470703
+cost_time: 16.73
+ ------------ 
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine: navfn/NavfnROS + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 222.308147681
+excution_time: 8.17422294617
+cost_time: 7.2
+ ------------ 
+
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine: global_planner/GlobalPlanner + eband_local_planner/EBandPlannerROS
+plan_evaluation: 199.445226381
+excution_time: 8.10544705391
+cost_time: 7.17
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 133.743119694
+excution_time: 16.5640461445
+cost_time: 15.53
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine: global_planner/GlobalPlanner + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 222.137016699
+excution_time: 7.96208405495
+cost_time: 6.83
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine: navfn/NavfnROS + eband_local_planner/EBandPlannerROS
+plan_evaluation: 269.932504693
+excution_time: 7.55482792854
+cost_time: 6.49
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine: navfn/NavfnROS + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 101.420654862
+excution_time: 16.7099671364
+cost_time: 15.72
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine: navfn/NavfnROS + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 227.980135247
+excution_time: 7.34314894676
+cost_time: 6.67
+ ------------ 
+
+ ------------ 
+slim_cylinder_9/world_cylinder_9_22:
+feature:8 72.8928571429 0.0682427812549 14.448822635
+algorithmn_combine: global_planner/GlobalPlanner + eband_local_planner/EBandPlannerROS
+plan_evaluation: 111.044203517
+excution_time: 8.85365700722
+cost_time: 8.08
+ ------------ 
+slim_cylinder_9/world_cylinder_9_22:
+feature:8 72.8928571429 0.0682427812549 14.448822635
+algorithmn_combine: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.1639248966
+excution_time: 18.6462128162
+cost_time: 17.45
+ ------------ 
+slim_cylinder_9/world_cylinder_9_22:
+feature:8 72.8928571429 0.0682427812549 14.448822635
+algorithmn_combine: global_planner/GlobalPlanner + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 0
+excution_time: 18.6462128162
+cost_time: 60.0
+ ------------ 
+slim_cylinder_9/world_cylinder_9_22:
+feature:8 72.8928571429 0.0682427812549 14.448822635
+algorithmn_combine: navfn/NavfnROS + eband_local_planner/EBandPlannerROS
+plan_evaluation: 76.1687245394
+excution_time: 9.96067619324
+cost_time: 8.86
+ ------------ 
+slim_cylinder_9/world_cylinder_9_22:
+feature:8 72.8928571429 0.0682427812549 14.448822635
+algorithmn_combine: navfn/NavfnROS + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.1940244185
+excution_time: 21.545334816
+cost_time: 20.21
+ ------------ 
+slim_cylinder_9/world_cylinder_9_22:
+feature:8 72.8928571429 0.0682427812549 14.448822635
+algorithmn_combine: navfn/NavfnROS + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 0
+excution_time: 21.545334816
+cost_time: 60.0
+ ------------ 
+
+ ------------ 

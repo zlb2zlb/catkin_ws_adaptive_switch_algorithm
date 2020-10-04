@@ -1,0 +1,15 @@
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine_best: global_planner/GlobalPlanner + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 1247.98514152
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine_best: navfn/NavfnROS + eband_local_planner/EBandPlannerROS
+plan_evaluation: 269.932504693
+ ------------ 
+slim_cylinder_9/world_cylinder_9_22:
+feature:8 72.8928571429 0.0682427812549 14.448822635
+algorithmn_combine_best: global_planner/GlobalPlanner + eband_local_planner/EBandPlannerROS
+plan_evaluation: 111.044203517
+ ------------ 

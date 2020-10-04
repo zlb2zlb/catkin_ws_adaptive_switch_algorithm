@@ -254,6 +254,7 @@ if __name__ == '__main__':
     rospy.Subscriber('/number_obstacles',String,sub_number_obstacles)
     rospy.Subscriber('/risk_obstacles',String,sub_risk_obstacles)
     pub_costmap = rospy.Publisher('self_costmap', OccupancyGrid, queue_size=10)
+    rospy.loginfo("adaptive node Started!!")
     rospy.spin()
 
     

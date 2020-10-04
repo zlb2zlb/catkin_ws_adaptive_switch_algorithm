@@ -1,0 +1,5 @@
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine_best: navfn/NavfnROS + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 730.594650992
+ ------------ 

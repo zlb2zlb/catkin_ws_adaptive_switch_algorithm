@@ -7,6 +7,7 @@ author:zlb
     订阅:/msg_tl, String, AchieveGoal_tl,  评价函数
         /msg_cd, String, AchieveGoal_cd,  评价函数  
         /msg_pv,String,AchieveGoal_pv,  评价函数
+        /msg_et, String, 执行时长
         /amcl_pose,PoseWithCovarianceStamped,AmclStartGoal,  订阅当前位姿信息
     发布:/move_base_simple/goal, PoseStamped, 发布目标点位姿信息
         /initialpose, PoseWithCovarianceStamped, 初始化位姿信息 
@@ -107,7 +108,7 @@ all_combine_average_value = {
         'sum':0,'success_count':0,'fail_count':0
     }}
 pv_best = {"algorithmn_combine":"base","plan_evaluation":0} # 字典形式的
-file_name = '/home/zlb/dev/ros_collections/catkin_ws_adaptive_switch_algorithm/src/adaptive_algorithm/20200926.txt'
+file_name = '/home/zlb/dev/ros_collections/catkin_ws_adaptive_switch_algorithm/src/adaptive_algorithm/20201004_adaptive'
 save_dir = '/home/zlb/dev/ros_collections/catkin_ws_adaptive_switch_algorithm/src/adaptive_algorithm/maps_1/slim_cylinder_3/world_cylinder_'
 algorithmn_combine = "" # 单次规划中的算法组合 初始化空字符串
 algorithmn_combine_best = "" # 单个环境中的最优算法组合 初始化空字符串
@@ -115,6 +116,8 @@ plan_evaluation = 0 # 评价函数
 plan_evaluation_max = 0 # 最高评价函数
 trajectory_length = 0
 closest_distance = 0
+et = 0  # 执行时长，小车接受到命令开始到停止运动结束
+cost_time = 0 ## 执行时长，从程序发出命令开始到接收到小车运动停止结束
 global_planner = "navfn/NavfnROS" # 默认为 "navfn/NavfnROS"
 local_planner = "base_local_planner/TrajectoryPlannerROS" # 默认为 "base_local_planner/TrajectoryPlannerROS"
 
@@ -144,7 +147,7 @@ def main():
     global pv_best,algorithmn_combine,algorithmn_combine_best,plan_evaluation,plan_evaluation_max,trajectory_length,closest_distance
     global global_planner,local_planner
     global msg_initialpose,msg_goal,file_name,save_dir,turtlebot3_world_launch,turtlebot3_navigation_launch
-    global number_obstacles,distance_each_other_obstacles_average,ocupancy_obstacles,risk_obstacles
+    global number_obstacles,distance_each_other_obstacles_average,ocupancy_obstacles,risk_obstacles,et,cost_time
 
     rospy.init_node('auto_plan_evaluation',anonymous=False)  
     
@@ -152,7 +155,7 @@ def main():
     # rospy.Subscriber('/msg_cd', String, AchieveGoal_cd)      
     rospy.Subscriber('/msg_pv',String,AchieveGoal_pv)
     # rospy.Subscriber('/msg_ts', String, AchieveGoal_cd)      
-    # rospy.Subscriber('/msg_et',String,AchieveGoal_pv)
+    rospy.Subscriber('/msg_et',String,AchieveGoal_et)
     rospy.Subscriber('/amcl_pose',PoseWithCovarianceStamped,AmclStartGoal)
     rospy.Subscriber('/number_obstacles',String,sub_number_obstacles)
     rospy.Subscriber('/risk_obstacles',String,sub_risk_obstacles)
@@ -241,11 +244,14 @@ def main():
                         pub_goal.publish(msg_goal) 
                     except KeyError as e:
                         print(e)
+                        msg_goal.header.stamp = rospy.Time.now()
+                        msg_goal.header.frame_id = "map"
+                        pub_goal.publish(msg_goal) 
                     rospy.loginfo(" # 发布目标位置信息")
                     # 此处会监听是否到达终点,如果到达就进行下一步,如果60s还没到达,默认路径规划失败
                     count = 0
-                    while  not achieve_goal_flag and (count<600):
-                        time.sleep(0.1)
+                    while  not achieve_goal_flag and (count<6000):
+                        time.sleep(0.01)
                         count += 1
                     time.sleep(1)
                     got_pv_flag = True
@@ -258,10 +264,11 @@ def main():
                         print(e)
                     # os.system("rostopic pub /move_base/cancel actionlib_msgs/GoalID -- {}")
                     time.sleep(10)
-                    rospy.loginfo("花费了约" + str(count/10) + "秒")
+                    cost_time = count*1.0/100
+                    rospy.loginfo("花费了约" + str(cost_time) + "秒")
                     
                     # 到达目标点,获得pv,比较之后写入 pv_best,如果是超时跳出循环的,那么它的pv就不进行比较了
-                    if count == 599:
+                    if count == 5999:
                         rospy.loginfo("路径规划失败")
                     elif plan_evaluation > plan_evaluation_max:
                         plan_evaluation_max = plan_evaluation
@@ -269,8 +276,16 @@ def main():
                         pv_best['algorithmn_combine'] = algorithmn_combine_best
                         pv_best['plan_evaluation'] = plan_evaluation_max
 
-                    # 调用 rosservice 将小车恢复到原来的位置
-
+                    
+                    feature = str(number_obstacles) + " " + str(distance_each_other_obstacles_average) + " " + str(ocupancy_obstacles) + " " + str(risk_obstacles)
+                    with open(file_name + '_every_combine', 'a+') as f:
+                        f.write('slim_cylinder_' + str(j) + '/world_cylinder_'+str(j)+'_' + str(i) + ":\n" + 
+                        "feature:" + str(feature) + "\n" + 
+                        "algorithmn_combine: " + str(algorithmn_combine) + "\nplan_evaluation: " + 
+                        str(plan_evaluation)  + "\nexcution_time: " + 
+                        str(et)   + "\ncost_time: " + 
+                        str(cost_time)+ "\n ------------ \n")
+                # 调用 rosservice 将小车恢复到原来的位置
                     # # 现在返回起始点  gazebo中
                     os.system('rosservice call /gazebo/reset_world')
                     # 发布初始位置信息  rviz中
@@ -339,6 +354,8 @@ def main():
                 
               
                     '''              
+            with open(file_name + '_every_combine', 'a+') as f:
+                f.write( "\n ------------ \n")
                 ###################### 写入 pv  勿删 ########################
             feature = str(number_obstacles) + " " + str(distance_each_other_obstacles_average) + " " + str(ocupancy_obstacles) + " " + str(risk_obstacles)
             with open(file_name, 'a+') as f:
@@ -443,6 +460,11 @@ def AmclStartGoal(msg):
     #     achieve_goal_flag = False
     #     achieve_start_flag = True
 
-
+def AchieveGoal_et(msg):
+    # 到达终点才记录pv
+    global et
+    if achieve_goal_flag and not got_pv_flag:
+        rospy.loginfo("到达目标点,获取et")
+        et = float(msg.data.split(":")[1])
 if __name__ == '__main__':
     main()

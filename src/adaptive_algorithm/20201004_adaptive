@@ -1,0 +1,10 @@
+slim_cylinder_9/world_cylinder_9_20:
+feature:6 54.2666666667 0.0736601272813 5.43871397325
+algorithmn_combine_best: navfn/NavfnROS + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 44.5571433862
+ ------------ 
+slim_cylinder_9/world_cylinder_9_21:
+feature:6 44.8666666667 0.0707936674907 7.96998437166
+algorithmn_combine_best: navfn/NavfnROS + eband_local_planner/EBandPlannerROS
+plan_evaluation: 61.5292101736
+ ------------ 
