@@ -1,0 +1,4080 @@
+slim_cylinder_4/world_cylinder_4_0:
+feature:4 87.1666666667 0.0333456056382 6.78000932231
+algorithmn_combine_best: base
+plan_evaluation: 0
+ ------------ 
+slim_cylinder_4/world_cylinder_4_1:
+feature:4 76.8333333333 0.0333456056382 4.18386713075
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 44.7075186758
+ ------------ 
+slim_cylinder_4/world_cylinder_4_2:
+feature:4 76.3333333333 0.0333456056382 2.90568760311
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 44.7075186758
+ ------------ 
+slim_cylinder_4/world_cylinder_4_3:
+feature:3 64.0 0.0333456056382 2.65779483166
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 58.762124525
+ ------------ 
+slim_cylinder_4/world_cylinder_4_4:
+feature:4 58.5 0.0333456056382 1.42703834079
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.543557663
+ ------------ 
+slim_cylinder_4/world_cylinder_4_5:
+feature:4 45.6666666667 0.0333456056382 4.3421577648
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.5420752116
+ ------------ 
+slim_cylinder_4/world_cylinder_4_6:
+feature:4 73.6666666667 0.0333456056382 4.93365124347
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 27.883774067
+ ------------ 
+slim_cylinder_4/world_cylinder_4_7:
+feature:4 65.6666666667 0.0333456056382 4.59859635896
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.0862128515
+ ------------ 
+slim_cylinder_4/world_cylinder_4_8:
+feature:4 49.3333333333 0.0333456056382 3.5053881227
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.0862128515
+ ------------ 
+slim_cylinder_4/world_cylinder_4_9:
+feature:4 80.1666666667 0.0333456056382 5.09330310697
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.4273363076
+ ------------ 
+slim_cylinder_4/world_cylinder_4_10:
+feature:4 49.8333333333 0.0333456056382 4.39103186893
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.001092024
+ ------------ 
+slim_cylinder_4/world_cylinder_4_11:
+feature:4 78.8333333333 0.0333456056382 3.86220709179
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.001092024
+ ------------ 
+slim_cylinder_4/world_cylinder_4_12:
+feature:4 51.5 0.0333456056382 3.805418907
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.9594393656
+ ------------ 
+slim_cylinder_4/world_cylinder_4_13:
+feature:4 49.3333333333 0.0333456056382 2.69620144339
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.5670525243
+ ------------ 
+slim_cylinder_4/world_cylinder_4_14:
+feature:3 73.3333333333 0.0325566717509 3.98193144754
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.5670525243
+ ------------ 
+slim_cylinder_4/world_cylinder_4_15:
+feature:4 77.6666666667 0.0333456056382 6.1390410397
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.5670525243
+ ------------ 
+slim_cylinder_4/world_cylinder_4_16:
+feature:2 70.0 0.0331878188608 0.836179594077
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.8673569685
+ ------------ 
+slim_cylinder_4/world_cylinder_4_17:
+feature:4 64.5 0.0333456056382 3.29651492378
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.7779635932
+ ------------ 
+slim_cylinder_4/world_cylinder_4_18:
+feature:4 69.1666666667 0.0333456056382 4.18472945322
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.6136576342
+ ------------ 
+slim_cylinder_4/world_cylinder_4_19:
+feature:3 56.3333333333 0.0316099510861 2.18409237285
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.6136576342
+ ------------ 
+slim_cylinder_4/world_cylinder_4_20:
+feature:4 88.5 0.0333456056382 3.83643454956
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.5100505149
+ ------------ 
+slim_cylinder_4/world_cylinder_4_21:
+feature:4 70.3333333333 0.0333456056382 7.50226975153
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.5100505149
+ ------------ 
+slim_cylinder_4/world_cylinder_4_22:
+feature:3 47.3333333333 0.0320833114185 2.06243185349
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.3340702332
+ ------------ 
+slim_cylinder_4/world_cylinder_4_23:
+feature:4 49.0 0.0333456056382 3.66076493459
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.5088489086
+ ------------ 
+slim_cylinder_4/world_cylinder_4_24:
+feature:4 57.5 0.0333456056382 1.74812502806
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.5088489086
+ ------------ 
+slim_cylinder_4/world_cylinder_4_25:
+feature:4 60.1666666667 0.0333456056382 6.84890091253
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.5088489086
+ ------------ 
+slim_cylinder_4/world_cylinder_4_26:
+feature:3 67.3333333333 0.0309788039762 3.17926579014
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 35.7092700921
+ ------------ 
+slim_cylinder_4/world_cylinder_4_27:
+feature:4 46.0 0.0333456056382 2.62708390332
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.5788326622
+ ------------ 
+slim_cylinder_4/world_cylinder_4_28:
+feature:3 65.3333333333 0.0313206753274 2.27246625379
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.0501328856
+ ------------ 
+slim_cylinder_4/world_cylinder_4_29:
+feature:4 56.1666666667 0.0333456056382 3.76071759379
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.0501328856
+ ------------ 
+slim_cylinder_4/world_cylinder_4_30:
+feature:4 53.1666666667 0.0333456056382 2.91160593292
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.2811472249
+ ------------ 
+slim_cylinder_4/world_cylinder_4_31:
+feature:4 50.0 0.0333456056382 2.83042402028
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.6531626077
+ ------------ 
+slim_cylinder_4/world_cylinder_4_32:
+feature:3 37.6666666667 0.0333456056382 1.97436686225
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.6260214457
+ ------------ 
+slim_cylinder_4/world_cylinder_4_33:
+feature:4 46.5 0.0333456056382 5.66239994123
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.9852855855
+ ------------ 
+slim_cylinder_4/world_cylinder_4_34:
+feature:4 61.6666666667 0.0333456056382 1.99838599471
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.070193224
+ ------------ 
+slim_cylinder_4/world_cylinder_4_35:
+feature:4 53.5 0.0333456056382 2.47501242932
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.8604231587
+ ------------ 
+slim_cylinder_4/world_cylinder_4_36:
+feature:4 53.5 0.0333456056382 2.65401461356
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.3380622882
+ ------------ 
+slim_cylinder_4/world_cylinder_4_37:
+feature:4 59.5 0.0333456056382 8.49025477599
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 36.8906224466
+ ------------ 
+slim_cylinder_4/world_cylinder_4_38:
+feature:4 96.0 0.0333456056382 3.29503750519
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.6390081663
+ ------------ 
+slim_cylinder_4/world_cylinder_4_39:
+feature:3 100.333333333 0.0321885026035 6.41768943499
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.0358524534
+ ------------ 
+slim_cylinder_4/world_cylinder_4_40:
+feature:4 60.3333333333 0.0333456056382 1.78458767944
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 52.7711188275
+ ------------ 
+slim_cylinder_4/world_cylinder_4_41:
+feature:3 90.3333333333 0.0333456056382 3.00115746559
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 83.907366229
+ ------------ 
+slim_cylinder_4/world_cylinder_4_42:
+feature:4 55.0 0.0333456056382 2.09236103505
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 75.611082694
+ ------------ 
+slim_cylinder_4/world_cylinder_4_43:
+feature:3 48.0 0.0333456056382 4.86281259113
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 36.1193561187
+ ------------ 
+slim_cylinder_4/world_cylinder_4_44:
+feature:4 70.6666666667 0.0333456056382 2.63025301214
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 59.9985013285
+ ------------ 
+slim_cylinder_4/world_cylinder_4_45:
+feature:3 38.3333333333 0.0320833114185 1.86991117854
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.1505117978
+ ------------ 
+slim_cylinder_4/world_cylinder_4_46:
+feature:4 83.0 0.0333456056382 2.40486385869
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 151.171564848
+ ------------ 
+slim_cylinder_4/world_cylinder_4_47:
+feature:4 78.8333333333 0.0333456056382 6.16561005245
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.3798721728
+ ------------ 
+slim_cylinder_4/world_cylinder_4_48:
+feature:2 81.0 0.0313995687161 1.60460965098
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.9481177917
+ ------------ 
+slim_cylinder_4/world_cylinder_4_49:
+feature:4 82.3333333333 0.0333456056382 2.23668136997
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.8910230618
+ ------------ 
+slim_cylinder_4/world_cylinder_4_50:
+feature:4 61.1666666667 0.0333456056382 3.2293126093
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 127.940243032
+ ------------ 
+slim_cylinder_4/world_cylinder_4_51:
+feature:4 52.5 0.0333456056382 1.87498693881
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.3193612539
+ ------------ 
+slim_cylinder_4/world_cylinder_4_52:
+feature:3 74.6666666667 0.030847314995 2.03527668063
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.0889714621
+ ------------ 
+slim_cylinder_4/world_cylinder_4_53:
+feature:4 70.1666666667 0.0333456056382 6.47855682725
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 27.8668387707
+ ------------ 
+slim_cylinder_4/world_cylinder_4_54:
+feature:4 74.0 0.0333456056382 5.40817016659
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.7351190789
+ ------------ 
+slim_cylinder_4/world_cylinder_4_55:
+feature:4 96.1666666667 0.0333456056382 4.31645236027
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 25.4977634922
+ ------------ 
+slim_cylinder_4/world_cylinder_4_56:
+feature:4 54.1666666667 0.0333456056382 3.02649825011
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.1052079848
+ ------------ 
+slim_cylinder_4/world_cylinder_4_57:
+feature:4 71.1666666667 0.0333456056382 4.07566812407
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 27.9289914929
+ ------------ 
+slim_cylinder_4/world_cylinder_4_58:
+feature:4 77.3333333333 0.0333456056382 5.73142563441
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 39.5971979707
+ ------------ 
+slim_cylinder_4/world_cylinder_4_59:
+feature:3 53.0 0.0332404144533 1.26551593275
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 160.431357966
+ ------------ 
+slim_cylinder_4/world_cylinder_4_60:
+feature:4 58.1666666667 0.0333456056382 4.51634083529
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.7654535902
+ ------------ 
+slim_cylinder_4/world_cylinder_4_61:
+feature:4 64.1666666667 0.0333456056382 4.16210158356
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.4287825768
+ ------------ 
+slim_cylinder_4/world_cylinder_4_62:
+feature:4 76.8333333333 0.0333456056382 3.93111873125
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.1009087255
+ ------------ 
+slim_cylinder_4/world_cylinder_4_63:
+feature:4 83.5 0.0333456056382 3.78441382407
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 46.1798109121
+ ------------ 
+slim_cylinder_4/world_cylinder_4_64:
+feature:4 60.6666666667 0.0333456056382 10.2637302287
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.7934686643
+ ------------ 
+slim_cylinder_4/world_cylinder_4_65:
+feature:4 64.1666666667 0.0333456056382 7.60820932731
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 48.3660982561
+ ------------ 
+slim_cylinder_4/world_cylinder_4_66:
+feature:4 47.5 0.0333456056382 2.65513315345
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.3658505233
+ ------------ 
+slim_cylinder_4/world_cylinder_4_67:
+feature:4 88.0 0.0333456056382 3.10222266458
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 56.8545093733
+ ------------ 
+slim_cylinder_4/world_cylinder_4_68:
+feature:4 88.0 0.0333456056382 4.13964940168
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 60.1019655578
+ ------------ 
+slim_cylinder_4/world_cylinder_4_69:
+feature:4 74.5 0.0333456056382 3.15352249463
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 55.6234671152
+ ------------ 
+slim_cylinder_4/world_cylinder_4_70:
+feature:4 77.1666666667 0.0333456056382 2.78377691866
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 309.098844688
+ ------------ 
+slim_cylinder_4/world_cylinder_4_71:
+feature:3 98.0 0.0318729290485 2.02245218206
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 73.0497897436
+ ------------ 
+slim_cylinder_4/world_cylinder_4_72:
+feature:4 91.6666666667 0.0333456056382 3.87252726909
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 58.8449407432
+ ------------ 
+slim_cylinder_4/world_cylinder_4_73:
+feature:4 49.8333333333 0.0333456056382 2.11237838877
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 195.401828828
+ ------------ 
+slim_cylinder_4/world_cylinder_4_74:
+feature:4 77.6666666667 0.0333456056382 2.64068465376
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 46.8207857871
+ ------------ 
+slim_cylinder_4/world_cylinder_4_75:
+feature:3 59.6666666667 0.0333456056382 1.66017561784
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 44.1922883366
+ ------------ 
+slim_cylinder_4/world_cylinder_4_76:
+feature:4 90.1666666667 0.0333456056382 3.33372095748
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 67.5068080181
+ ------------ 
+slim_cylinder_4/world_cylinder_4_77:
+feature:4 65.5 0.0333456056382 3.9001293289
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 62.2886288578
+ ------------ 
+slim_cylinder_4/world_cylinder_4_78:
+feature:3 64.3333333333 0.0273760058907 2.53135365973
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 60.4546232058
+ ------------ 
+slim_cylinder_4/world_cylinder_4_79:
+feature:4 75.0 0.0333456056382 3.36904347888
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 46.8926277006
+ ------------ 
+slim_cylinder_4/world_cylinder_4_80:
+feature:3 81.0 0.0304265502551 2.81335254314
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 53.8155530344
+ ------------ 
+slim_cylinder_4/world_cylinder_4_81:
+feature:3 85.3333333333 0.0316099510861 2.68991538854
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 50.7400535284
+ ------------ 
+slim_cylinder_4/world_cylinder_4_82:
+feature:3 105.333333333 0.0304528480513 3.65180548882
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.5925987664
+ ------------ 
+slim_cylinder_4/world_cylinder_4_83:
+feature:4 75.8333333333 0.0333456056382 6.19849791194
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.0990674985
+ ------------ 
+slim_cylinder_4/world_cylinder_4_84:
+feature:4 46.5 0.0333456056382 8.81208047735
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 73.6170802806
+ ------------ 
+slim_cylinder_4/world_cylinder_4_85:
+feature:4 63.3333333333 0.0333456056382 4.3602198714
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.3510391055
+ ------------ 
+slim_cylinder_4/world_cylinder_4_86:
+feature:3 69.6666666667 0.0333456056382 2.98652305234
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 92.2539547526
+ ------------ 
+slim_cylinder_4/world_cylinder_4_87:
+feature:4 62.0 0.0333456056382 4.34439623296
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 64.8169128383
+ ------------ 
+slim_cylinder_4/world_cylinder_4_88:
+feature:4 93.5 0.0333456056382 4.91392032674
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 52.8807642277
+ ------------ 
+slim_cylinder_4/world_cylinder_4_89:
+feature:4 65.1666666667 0.0333456056382 3.31699713624
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 57.2538570435
+ ------------ 
+slim_cylinder_4/world_cylinder_4_90:
+feature:4 39.8333333333 0.0333456056382 2.46077609118
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.6459982151
+ ------------ 
+slim_cylinder_4/world_cylinder_4_91:
+feature:4 70.8333333333 0.0333456056382 1.78491154463
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 77.8781683557
+ ------------ 
+slim_cylinder_4/world_cylinder_4_92:
+feature:4 46.3333333333 0.0333456056382 1.65742301168
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 56.9804654867
+ ------------ 
+slim_cylinder_4/world_cylinder_4_93:
+feature:3 29.3333333333 0.0322148003997 1.51876571885
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 47.5532148186
+ ------------ 
+slim_cylinder_4/world_cylinder_4_94:
+feature:4 48.1666666667 0.0333456056382 3.4803160365
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 25.2155754739
+ ------------ 
+slim_cylinder_4/world_cylinder_4_95:
+feature:3 37.0 0.032241098196 1.96448788224
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 47.4124310943
+ ------------ 
+slim_cylinder_4/world_cylinder_4_96:
+feature:4 58.0 0.0333456056382 4.15023610021
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 62.2600074567
+ ------------ 
+slim_cylinder_4/world_cylinder_4_97:
+feature:3 40.3333333333 0.0333456056382 2.0730564765
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 46.6579740989
+ ------------ 
+slim_cylinder_4/world_cylinder_4_98:
+feature:3 66.3333333333 0.0300320833114 4.18659734367
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 98.3013819292
+ ------------ 
+slim_cylinder_4/world_cylinder_4_99:
+feature:4 55.8333333333 0.0333456056382 3.45833982488
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.4402385912
+ ------------ 
+slim_cylinder_6/world_cylinder_6_0:
+feature:5 75.5 0.0458633566507 5.51624121528
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 82.1645191203
+ ------------ 
+slim_cylinder_6/world_cylinder_6_1:
+feature:5 48.0 0.0500184084574 2.95827317674
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 61.0863236959
+ ------------ 
+slim_cylinder_6/world_cylinder_6_2:
+feature:6 85.9333333333 0.0500184084574 7.22463428017
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.9158515049
+ ------------ 
+slim_cylinder_6/world_cylinder_6_3:
+feature:5 72.7 0.0490190922001 3.4915447884
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 229.776907692
+ ------------ 
+slim_cylinder_6/world_cylinder_6_4:
+feature:5 63.5 0.0489664966076 5.71392104604
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.6739448833
+ ------------ 
+slim_cylinder_6/world_cylinder_6_5:
+feature:6 68.0666666667 0.0500184084574 3.77589845309
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 114.163223355
+ ------------ 
+slim_cylinder_6/world_cylinder_6_6:
+feature:5 72.9 0.0440488087098 4.1610527984
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.6991047858
+ ------------ 
+slim_cylinder_6/world_cylinder_6_7:
+feature:6 70.1333333333 0.0500184084574 6.95783692977
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 270.681105066
+ ------------ 
+slim_cylinder_6/world_cylinder_6_8:
+feature:6 68.4666666667 0.0500184084574 3.63278048753
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.6707493819
+ ------------ 
+slim_cylinder_6/world_cylinder_6_9:
+feature:6 75.9333333333 0.0500184084574 9.86087100314
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 78.7430963613
+ ------------ 
+slim_cylinder_6/world_cylinder_6_10:
+feature:4 78.3333333333 0.0490716877926 5.84506112138
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 143.499832661
+ ------------ 
+slim_cylinder_6/world_cylinder_6_11:
+feature:4 56.0 0.0500184084574 4.64860845605
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.0337354743
+ ------------ 
+slim_cylinder_6/world_cylinder_6_12:
+feature:6 47.6666666667 0.0500184084574 7.06289877754
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 74.6887484818
+ ------------ 
+slim_cylinder_6/world_cylinder_6_13:
+feature:5 80.2 0.0484931362752 5.28053497614
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 39.9073873696
+ ------------ 
+slim_cylinder_6/world_cylinder_6_14:
+feature:4 63.5 0.0458633566507 7.07907924756
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 69.7333747329
+ ------------ 
+slim_cylinder_6/world_cylinder_6_15:
+feature:6 67.2666666667 0.0500184084574 6.84451030353
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 237.131854236
+ ------------ 
+slim_cylinder_6/world_cylinder_6_16:
+feature:5 60.0 0.0464419081681 5.01419476721
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.811138681
+ ------------ 
+slim_cylinder_6/world_cylinder_6_17:
+feature:4 31.5 0.0443380844685 4.08138182125
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 144.33188156
+ ------------ 
+slim_cylinder_6/world_cylinder_6_18:
+feature:6 49.4 0.0500184084574 7.27878918659
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 249.878314153
+ ------------ 
+slim_cylinder_6/world_cylinder_6_19:
+feature:6 73.1333333333 0.0500184084574 8.60265775944
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 63.4222012553
+ ------------ 
+slim_cylinder_6/world_cylinder_6_20:
+feature:5 77.8 0.0500184084574 4.57122697277
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.2923809872
+ ------------ 
+slim_cylinder_6/world_cylinder_6_21:
+feature:4 54.1666666667 0.0419975806027 1.59516176472
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 120.420450239
+ ------------ 
+slim_cylinder_6/world_cylinder_6_22:
+feature:6 71.2666666667 0.0500184084574 4.44556274127
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 57.9615793844
+ ------------ 
+slim_cylinder_6/world_cylinder_6_23:
+feature:5 56.5 0.0438121285436 6.77140399886
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 68.7263048791
+ ------------ 
+slim_cylinder_6/world_cylinder_6_24:
+feature:5 69.4 0.0498606216799 6.24122554137
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 155.614775006
+ ------------ 
+slim_cylinder_6/world_cylinder_6_25:
+feature:5 52.9 0.0500184084574 6.52946817371
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 105.643702287
+ ------------ 
+slim_cylinder_6/world_cylinder_6_26:
+feature:6 77.6666666667 0.0500184084574 5.58697114923
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.2430445134
+ ------------ 
+slim_cylinder_6/world_cylinder_6_27:
+feature:5 72.7 0.0500184084574 4.97237138029
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 52.2890946539
+ ------------ 
+slim_cylinder_6/world_cylinder_6_28:
+feature:5 62.9 0.0500184084574 4.99790570518
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1764.98981255
+ ------------ 
+slim_cylinder_6/world_cylinder_6_29:
+feature:6 81.3333333333 0.0500184084574 9.81832209919
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 53.6186474543
+ ------------ 
+slim_cylinder_6/world_cylinder_6_30:
+feature:5 80.1 0.0500184084574 3.53769180888
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 53.0187096578
+ ------------ 
+slim_cylinder_6/world_cylinder_6_31:
+feature:4 36.1666666667 0.0485457318677 1.60862556893
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.7641759438
+ ------------ 
+slim_cylinder_6/world_cylinder_6_32:
+feature:6 74.1333333333 0.0500184084574 4.48729128797
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.3765767378
+ ------------ 
+slim_cylinder_6/world_cylinder_6_33:
+feature:5 70.0 0.0489927944038 3.10092663758
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37227.2456669
+ ------------ 
+slim_cylinder_6/world_cylinder_6_34:
+feature:4 42.6666666667 0.0490716877926 3.49647843633
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 71.0673739241
+ ------------ 
+slim_cylinder_6/world_cylinder_6_35:
+feature:5 59.0 0.0494661547362 5.69944469102
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 73.3873943432
+ ------------ 
+slim_cylinder_6/world_cylinder_6_36:
+feature:5 96.1 0.0490190922001 8.31650637653
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 155.236675993
+ ------------ 
+slim_cylinder_6/world_cylinder_6_37:
+feature:6 68.7333333333 0.0500184084574 5.35063244343
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.3388492791
+ ------------ 
+slim_cylinder_6/world_cylinder_6_38:
+feature:5 50.2 0.0454425919108 7.0035675866
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.7758529466
+ ------------ 
+slim_cylinder_6/world_cylinder_6_39:
+feature:4 66.6666666667 0.0449955293746 1.75358052408
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.5164374498
+ ------------ 
+slim_cylinder_6/world_cylinder_6_40:
+feature:5 86.3 0.0476779045916 8.56811086476
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.3839173353
+ ------------ 
+slim_cylinder_6/world_cylinder_6_41:
+feature:6 56.6666666667 0.0500184084574 3.08288329336
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 35.2192562811
+ ------------ 
+slim_cylinder_6/world_cylinder_6_42:
+feature:6 72.9333333333 0.0500184084574 3.71395653202
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 97.969361203
+ ------------ 
+slim_cylinder_6/world_cylinder_6_43:
+feature:4 79.6666666667 0.0397885657182 4.85125804674
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.0604388631
+ ------------ 
+slim_cylinder_6/world_cylinder_6_44:
+feature:5 58.9 0.0494924525325 3.64065729194
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 162.845129131
+ ------------ 
+slim_cylinder_6/world_cylinder_6_45:
+feature:6 70.4 0.0500184084574 4.09392707121
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.3542128475
+ ------------ 
+slim_cylinder_6/world_cylinder_6_46:
+feature:3 39.0 0.0489139010151 4.00128515311
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.8569853941
+ ------------ 
+slim_cylinder_6/world_cylinder_6_47:
+feature:3 72.6666666667 0.0477042023878 2.91452470872
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.7962311848
+ ------------ 
+slim_cylinder_6/world_cylinder_6_48:
+feature:6 69.0666666667 0.0500184084574 6.99386821793
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 15.0545044308
+ ------------ 
+slim_cylinder_6/world_cylinder_6_49:
+feature:5 49.8 0.044495871246 2.99264658306
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.3479161727
+ ------------ 
+slim_cylinder_6/world_cylinder_6_50:
+feature:6 58.6666666667 0.0500184084574 4.97585719075
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.3636868912
+ ------------ 
+slim_cylinder_6/world_cylinder_6_51:
+feature:5 68.9 0.0500184084574 7.69610979938
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.7205231762
+ ------------ 
+slim_cylinder_6/world_cylinder_6_52:
+feature:3 37.0 0.0479145847578 0.937989247983
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 39.2871427051
+ ------------ 
+slim_cylinder_6/world_cylinder_6_53:
+feature:5 63.5 0.0474938200179 8.6384877734
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.176227068
+ ------------ 
+slim_cylinder_6/world_cylinder_6_54:
+feature:6 76.9333333333 0.0500184084574 5.0148758962
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.3867522857
+ ------------ 
+slim_cylinder_6/world_cylinder_6_55:
+feature:3 13.6666666667 0.0450481249671 0.898240202144
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.9059176105
+ ------------ 
+slim_cylinder_6/world_cylinder_6_56:
+feature:5 60.1 0.0500184084574 5.40435336953
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.6616026711
+ ------------ 
+slim_cylinder_6/world_cylinder_6_57:
+feature:5 76.2 0.0479145847578 7.28681716084
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 15.9528277647
+ ------------ 
+slim_cylinder_6/world_cylinder_6_58:
+feature:5 32.0 0.0446799558197 4.15320529581
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 88.2390969716
+ ------------ 
+slim_cylinder_6/world_cylinder_6_59:
+feature:6 70.4666666667 0.0500184084574 5.93602241958
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.39043386
+ ------------ 
+slim_cylinder_6/world_cylinder_6_60:
+feature:5 77.3 0.0500184084574 4.66346953828
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 70.7788701342
+ ------------ 
+slim_cylinder_6/world_cylinder_6_61:
+feature:5 57.3 0.0498606216799 3.7324078811
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 25.2334636576
+ ------------ 
+slim_cylinder_6/world_cylinder_6_62:
+feature:4 76.5 0.0462315257981 4.16578197404
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.7768407779
+ ------------ 
+slim_cylinder_6/world_cylinder_6_63:
+feature:4 38.1666666667 0.0443380844685 3.45371346419
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.5576342916
+ ------------ 
+slim_cylinder_6/world_cylinder_6_64:
+feature:6 41.9333333333 0.0500184084574 4.62012173403
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 90.059403569
+ ------------ 
+slim_cylinder_6/world_cylinder_6_65:
+feature:6 66.1333333333 0.0500184084574 7.45845783124
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 103.87104282
+ ------------ 
+slim_cylinder_6/world_cylinder_6_66:
+feature:4 60.1666666667 0.0485457318677 3.36903207268
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 71.4573005829
+ ------------ 
+slim_cylinder_6/world_cylinder_6_67:
+feature:5 49.6 0.0500184084574 1.41158893317
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 25.9779700017
+ ------------ 
+slim_cylinder_6/world_cylinder_6_68:
+feature:5 69.4 0.0443380844685 5.35933046
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 50.5280254793
+ ------------ 
+slim_cylinder_6/world_cylinder_6_69:
+feature:6 73.4666666667 0.0500184084574 5.91812666113
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 35.1436777812
+ ------------ 
+slim_cylinder_6/world_cylinder_6_70:
+feature:5 53.9 0.0484405406827 6.4259903035
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41344.8509717
+ ------------ 
+slim_cylinder_6/world_cylinder_6_71:
+feature:6 75.9333333333 0.0500184084574 4.34487084334
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 52.0000391578
+ ------------ 
+slim_cylinder_6/world_cylinder_6_72:
+feature:5 56.6 0.0492031767738 5.80491502514
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.2516011454
+ ------------ 
+slim_cylinder_6/world_cylinder_6_73:
+feature:6 81.1333333333 0.0500184084574 5.06730581074
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.1428920593
+ ------------ 
+slim_cylinder_6/world_cylinder_6_74:
+feature:5 45.8 0.0438121285436 6.50552734844
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 53.6275111113
+ ------------ 
+slim_cylinder_6/world_cylinder_6_75:
+feature:6 58.8666666667 0.0500184084574 8.03575918899
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.1537229663
+ ------------ 
+slim_cylinder_6/world_cylinder_6_76:
+feature:5 76.1 0.0498343238837 4.02531397943
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 19986.8638963
+ ------------ 
+slim_cylinder_6/world_cylinder_6_77:
+feature:5 68.1 0.0499132172724 6.81772137192
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.3642550353
+ ------------ 
+slim_cylinder_6/world_cylinder_6_78:
+feature:6 59.6 0.0500184084574 5.51106273806
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 84.8199059634
+ ------------ 
+slim_cylinder_6/world_cylinder_6_79:
+feature:6 47.2666666667 0.0500184084574 3.98111060115
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.2263424852
+ ------------ 
+slim_cylinder_6/world_cylinder_6_80:
+feature:5 63.9 0.0467837795193 4.46937382056
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.0566832227
+ ------------ 
+slim_cylinder_6/world_cylinder_6_81:
+feature:6 71.6666666667 0.0500184084574 3.93847710878
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.6514218942
+ ------------ 
+slim_cylinder_6/world_cylinder_6_82:
+feature:5 45.6 0.0493083679588 3.807701863
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 78.1922618721
+ ------------ 
+slim_cylinder_6/world_cylinder_6_83:
+feature:5 55.9 0.0499921106611 5.73040226361
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.5090983553
+ ------------ 
+slim_cylinder_6/world_cylinder_6_84:
+feature:5 75.8 0.0500184084574 7.52223694133
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.7457506115
+ ------------ 
+slim_cylinder_6/world_cylinder_6_85:
+feature:4 56.6666666667 0.0466522905381 3.87023821314
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.5418505495
+ ------------ 
+slim_cylinder_6/world_cylinder_6_86:
+feature:3 42.6666666667 0.0479145847578 4.69012130532
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 163.691919305
+ ------------ 
+slim_cylinder_6/world_cylinder_6_87:
+feature:6 68.0666666667 0.0500184084574 5.10331288358
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.4175407507
+ ------------ 
+slim_cylinder_6/world_cylinder_6_88:
+feature:6 54.1333333333 0.0500184084574 12.127139913
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.942793143
+ ------------ 
+slim_cylinder_6/world_cylinder_6_89:
+feature:6 57.0 0.0500184084574 5.33345582113
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 103.225507981
+ ------------ 
+slim_cylinder_6/world_cylinder_6_90:
+feature:4 43.5 0.0493872613475 4.04125728788
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 158.210729686
+ ------------ 
+slim_cylinder_6/world_cylinder_6_91:
+feature:5 60.2 0.0477567979803 4.38455187376
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 86.8978805408
+ ------------ 
+slim_cylinder_6/world_cylinder_6_92:
+feature:6 91.6 0.0500184084574 3.26129625627
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 212.279524504
+ ------------ 
+slim_cylinder_6/world_cylinder_6_93:
+feature:5 66.4 0.0498606216799 6.31706733698
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.9097696596
+ ------------ 
+slim_cylinder_6/world_cylinder_6_94:
+feature:4 70.3333333333 0.0500184084574 2.65404352012
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.9998059092
+ ------------ 
+slim_cylinder_6/world_cylinder_6_95:
+feature:5 89.4 0.0487561142376 5.95863759875
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 106.245455589
+ ------------ 
+slim_cylinder_6/world_cylinder_6_96:
+feature:6 83.5333333333 0.0500184084574 6.58349111228
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 139.197126311
+ ------------ 
+slim_cylinder_6/world_cylinder_6_97:
+feature:6 51.6 0.0500184084574 3.9855391325
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.5668796229
+ ------------ 
+slim_cylinder_6/world_cylinder_6_98:
+feature:5 64.3 0.0472834376479 5.18087896425
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 180.747477772
+ ------------ 
+slim_cylinder_6/world_cylinder_6_99:
+feature:5 82.4 0.044495871246 4.5740990609
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.9412336393
+ ------------ 
+slim_cylinder_8/world_cylinder_8_0:
+feature:6 70.7333333333 0.0624835638773 5.88332722728
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 39.7976812676
+ ------------ 
+slim_cylinder_8/world_cylinder_8_1:
+feature:7 68.619047619 0.0666912112765 5.73771901796
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.3764697911
+ ------------ 
+slim_cylinder_8/world_cylinder_8_2:
+feature:6 41.1333333333 0.0642455162257 5.40291322898
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.2447377068
+ ------------ 
+slim_cylinder_8/world_cylinder_8_3:
+feature:7 70.4285714286 0.064061431652 4.20226732437
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.0617266761
+ ------------ 
+slim_cylinder_8/world_cylinder_8_4:
+feature:4 39.5 0.0612475674538 3.8261567811
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 83.0332779201
+ ------------ 
+slim_cylinder_8/world_cylinder_8_5:
+feature:7 67.380952381 0.0650607479093 5.12237305966
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 127.160854287
+ ------------ 
+slim_cylinder_8/world_cylinder_8_6:
+feature:7 64.1904761905 0.0659022773892 7.88474603896
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.3944081974
+ ------------ 
+slim_cylinder_8/world_cylinder_8_7:
+feature:8 60.0357142857 0.0666912112765 6.32229193393
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 13.0673073703
+ ------------ 
+slim_cylinder_8/world_cylinder_8_8:
+feature:4 36.6666666667 0.0634565823384 4.76287352567
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.9342156478
+ ------------ 
+slim_cylinder_8/world_cylinder_8_9:
+feature:0 0 0 0
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.9342156478
+ ------------ 
+slim_cylinder_8/world_cylinder_8_0:
+feature:6 70.7333333333 0.0624835638773 5.88332722728
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.39997348393e-08
+ ------------ 
+slim_cylinder_8/world_cylinder_8_1:
+feature:7 68.619047619 0.0666912112765 5.73771901796
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.03270657738e-08
+ ------------ 
+slim_cylinder_8/world_cylinder_8_0:
+feature:6 70.7333333333 0.0624835638773 5.88332722728
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 611.111876671
+ ------------ 
+slim_cylinder_8/world_cylinder_8_1:
+feature:7 68.619047619 0.0666912112765 5.73771901796
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 160.182504513
+ ------------ 
+slim_cylinder_8/world_cylinder_8_2:
+feature:6 41.1333333333 0.0642455162257 5.40291322898
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 437.760356647
+ ------------ 
+slim_cylinder_8/world_cylinder_8_3:
+feature:7 70.4285714286 0.064061431652 4.20226732437
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 195.625592079
+ ------------ 
+slim_cylinder_8/world_cylinder_8_4:
+feature:4 39.5 0.0612475674538 3.8261567811
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 841.091095189
+ ------------ 
+slim_cylinder_8/world_cylinder_8_5:
+feature:7 67.380952381 0.0650607479093 5.12237305966
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.9788107462
+ ------------ 
+slim_cylinder_8/world_cylinder_8_6:
+feature:7 64.1904761905 0.0659022773892 7.88474603896
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 383.862289646
+ ------------ 
+slim_cylinder_8/world_cylinder_8_7:
+feature:8 60.0357142857 0.0666912112765 6.32229193393
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 131.654952989
+ ------------ 
+slim_cylinder_8/world_cylinder_8_8:
+feature:4 36.6666666667 0.0634565823384 4.76287352567
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 218.331958828
+ ------------ 
+slim_cylinder_8/world_cylinder_8_9:
+feature:5 39.3 0.064271814022 2.54265960917
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.3246761372
+ ------------ 
+slim_cylinder_8/world_cylinder_8_10:
+feature:7 65.7619047619 0.0595382106979 5.76033462996
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 71.0773908185
+ ------------ 
+slim_cylinder_8/world_cylinder_8_11:
+feature:5 65.9 0.0600641666228 4.14014661591
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.72491091537
+ ------------ 
+slim_cylinder_8/world_cylinder_8_12:
+feature:7 57.1904761905 0.0661389575554 8.60802735559
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 90.603243751
+ ------------ 
+slim_cylinder_8/world_cylinder_8_13:
+feature:5 50.6 0.0646925787619 4.99463360505
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 279.844596802
+ ------------ 
+slim_cylinder_8/world_cylinder_8_14:
+feature:6 70.0666666667 0.0630095198022 5.61551277904
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 111.683790955
+ ------------ 
+slim_cylinder_8/world_cylinder_8_15:
+feature:5 65.1 0.0583022142744 5.20766464909
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 83.843417066
+ ------------ 
+slim_cylinder_8/world_cylinder_8_16:
+feature:7 69.9523809524 0.0660337663704 5.22946444808
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 135.330169016
+ ------------ 
+slim_cylinder_8/world_cylinder_8_17:
+feature:8 75.0357142857 0.0666912112765 7.30233864287
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 135.330169016
+ ------------ 
+slim_cylinder_8/world_cylinder_8_18:
+feature:6 71.2 0.0662967443328 5.60900793578
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 102.016707816
+ ------------ 
+slim_cylinder_8/world_cylinder_8_19:
+feature:7 75.2380952381 0.0664019355178 6.22935309052
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 100.537341425
+ ------------ 
+slim_cylinder_8/world_cylinder_8_20:
+feature:7 61.1904761905 0.0604849313628 10.5173827338
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 14.2783592821
+ ------------ 
+slim_cylinder_8/world_cylinder_8_21:
+feature:5 50.4 0.0666912112765 3.37027828819
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 78.4644026871
+ ------------ 
+slim_cylinder_8/world_cylinder_8_22:
+feature:7 88.1904761905 0.0624309682849 14.9997072718
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.1706180587
+ ------------ 
+slim_cylinder_8/world_cylinder_8_23:
+feature:6 66.3333333333 0.0604586335665 5.92604049407
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 60.2945963632
+ ------------ 
+slim_cylinder_8/world_cylinder_8_24:
+feature:6 47.6 0.0651659390943 7.36915650878
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 19.5385846739
+ ------------ 
+slim_cylinder_8/world_cylinder_8_25:
+feature:7 61.1904761905 0.0634565823384 5.52859379985
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.16133716689
+ ------------ 
+slim_cylinder_8/world_cylinder_8_26:
+feature:7 54.7142857143 0.0666912112765 6.67503752306
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 19.8281870135
+ ------------ 
+slim_cylinder_8/world_cylinder_8_27:
+feature:6 66.0 0.0644296007995 5.3129854169
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.763814492
+ ------------ 
+slim_cylinder_8/world_cylinder_8_28:
+feature:6 61.8666666667 0.0661652553516 8.66462969398
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 15.1055364766
+ ------------ 
+slim_cylinder_8/world_cylinder_8_29:
+feature:6 56.6 0.0649555567243 7.28170924205
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 44.2553850291
+ ------------ 
+slim_cylinder_8/world_cylinder_8_30:
+feature:7 64.7142857143 0.0666912112765 5.56325707446
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.9863904694
+ ------------ 
+slim_cylinder_8/world_cylinder_8_31:
+feature:8 80.8214285714 0.0666912112765 7.00876920256
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.4791166402
+ ------------ 
+slim_cylinder_8/world_cylinder_8_32:
+feature:6 86.4666666667 0.0660600641666 6.90636277005
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 47.4659287672
+ ------------ 
+slim_cylinder_8/world_cylinder_8_33:
+feature:7 54.0952380952 0.0666912112765 5.09725314875
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.20701929958
+ ------------ 
+slim_cylinder_8/world_cylinder_8_34:
+feature:8 71.6428571429 0.0666912112765 6.50768799973
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 103.674562431
+ ------------ 
+slim_cylinder_8/world_cylinder_8_35:
+feature:8 62.2857142857 0.0666912112765 6.20175750768
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 44.5968681297
+ ------------ 
+slim_cylinder_8/world_cylinder_8_36:
+feature:7 52.7619047619 0.0644296007995 7.14974504027
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.99760831022
+ ------------ 
+slim_cylinder_8/world_cylinder_8_37:
+feature:7 65.3333333333 0.0666912112765 4.98433474238
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.7588020712
+ ------------ 
+slim_cylinder_8/world_cylinder_8_38:
+feature:7 67.6666666667 0.06190501236 3.79663219739
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.79261199917
+ ------------ 
+slim_cylinder_8/world_cylinder_8_39:
+feature:8 57.7142857143 0.0666912112765 8.19997227152
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 53.2632697108
+ ------------ 
+slim_cylinder_8/world_cylinder_8_40:
+feature:5 70.5 0.0598537842529 5.42222768835
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 106.125240973
+ ------------ 
+slim_cylinder_8/world_cylinder_8_41:
+feature:7 71.2857142857 0.0666912112765 5.66201375257
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.380728178
+ ------------ 
+slim_cylinder_8/world_cylinder_8_42:
+feature:6 76.8666666667 0.0666912112765 5.50419188765
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.0675596134
+ ------------ 
+slim_cylinder_8/world_cylinder_8_43:
+feature:8 76.2857142857 0.0666912112765 4.9514085035
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.67407327362
+ ------------ 
+slim_cylinder_8/world_cylinder_8_44:
+feature:7 48.5238095238 0.066638615684 5.62816252819
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.824756690866
+ ------------ 
+slim_cylinder_8/world_cylinder_8_45:
+feature:8 68.9285714286 0.0666912112765 9.57415974728
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 55.7985227522
+ ------------ 
+slim_cylinder_8/world_cylinder_8_46:
+feature:7 66.3333333333 0.0621416925262 10.3170416473
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.4967705708
+ ------------ 
+slim_cylinder_8/world_cylinder_8_47:
+feature:6 67.4 0.0559617104087 5.1533355905
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.6848788628
+ ------------ 
+slim_cylinder_8/world_cylinder_8_48:
+feature:4 74.1666666667 0.0601693578078 3.04783077871
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 94.2684846726
+ ------------ 
+slim_cylinder_8/world_cylinder_8_49:
+feature:6 65.9333333333 0.0658496817967 3.77842501496
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.39041642408
+ ------------ 
+slim_cylinder_8/world_cylinder_8_50:
+feature:6 72.2 0.0666649134803 5.71909881323
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 123.682934228
+ ------------ 
+slim_cylinder_8/world_cylinder_8_51:
+feature:6 59.6 0.0647451743544 4.24712613284
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 77.2755560652
+ ------------ 
+slim_cylinder_8/world_cylinder_8_52:
+feature:4 49.8333333333 0.0604849313628 4.55911627772
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 253.399031049
+ ------------ 
+slim_cylinder_8/world_cylinder_8_53:
+feature:6 51.8666666667 0.0656918950192 6.83921668764
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 103.966104317
+ ------------ 
+slim_cylinder_8/world_cylinder_8_54:
+feature:5 73.7 0.0608793983064 4.73250193176
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.0264229221
+ ------------ 
+slim_cylinder_8/world_cylinder_8_55:
+feature:7 63.4285714286 0.0621153947299 9.61423615819
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 93.3203605434
+ ------------ 
+slim_cylinder_8/world_cylinder_8_56:
+feature:5 51.2 0.0629569242098 6.00048417765
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 254.637125543
+ ------------ 
+slim_cylinder_8/world_cylinder_8_57:
+feature:8 63.75 0.0666912112765 7.66128780094
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 190.501083673
+ ------------ 
+slim_cylinder_8/world_cylinder_8_58:
+feature:7 74.380952381 0.0602745489928 5.83547208835
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 723.222175671
+ ------------ 
+slim_cylinder_8/world_cylinder_8_59:
+feature:7 63.1904761905 0.0666912112765 5.04327579098
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.02939456
+ ------------ 
+slim_cylinder_8/world_cylinder_8_60:
+feature:7 85.8571428571 0.066638615684 6.38391821744
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 146.983215362
+ ------------ 
+slim_cylinder_8/world_cylinder_8_61:
+feature:7 55.5714285714 0.0659022773892 7.3486423754
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 261.826401611
+ ------------ 
+slim_cylinder_8/world_cylinder_8_62:
+feature:7 75.9047619048 0.0666912112765 5.61962762975
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 624.715195691
+ ------------ 
+slim_cylinder_8/world_cylinder_8_63:
+feature:6 62.3333333333 0.0640088360595 5.7612625501
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 173.594903677
+ ------------ 
+slim_cylinder_8/world_cylinder_8_64:
+feature:5 60.2 0.0647451743544 5.73127300493
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.4851871531
+ ------------ 
+slim_cylinder_8/world_cylinder_8_65:
+feature:7 71.0 0.063956240467 8.61051842356
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.50152251
+ ------------ 
+slim_cylinder_8/world_cylinder_8_66:
+feature:8 71.0357142857 0.0666912112765 7.57666316551
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 54.076056031
+ ------------ 
+slim_cylinder_8/world_cylinder_8_67:
+feature:6 42.3333333333 0.064061431652 8.10479491258
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 133.936627888
+ ------------ 
+slim_cylinder_8/world_cylinder_8_68:
+feature:7 76.8095238095 0.0666912112765 6.45071578577
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 89.7642029504
+ ------------ 
+slim_cylinder_8/world_cylinder_8_69:
+feature:5 39.3 0.064166622837 2.67691138534
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 235.932840145
+ ------------ 
+slim_cylinder_8/world_cylinder_8_70:
+feature:7 70.380952381 0.0648766633356 6.5904629197
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 7.62401234107
+ ------------ 
+slim_cylinder_8/world_cylinder_8_71:
+feature:8 69.1785714286 0.0666912112765 9.64540212987
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.4770235593
+ ------------ 
+slim_cylinder_8/world_cylinder_8_72:
+feature:7 66.4285714286 0.065244832483 14.1396294371
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 67.9104917761
+ ------------ 
+slim_cylinder_8/world_cylinder_8_73:
+feature:6 50.9333333333 0.0590648503655 8.13086449289
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 63.039317588
+ ------------ 
+slim_cylinder_8/world_cylinder_8_74:
+feature:8 63.6428571429 0.0666912112765 9.31287518236
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 85.6111458216
+ ------------ 
+slim_cylinder_8/world_cylinder_8_75:
+feature:6 71.6 0.06148424762 4.63549085095
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 134.415458956
+ ------------ 
+slim_cylinder_8/world_cylinder_8_76:
+feature:7 58.6666666667 0.0583548098669 4.7119653353
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 62.8030220924
+ ------------ 
+slim_cylinder_8/world_cylinder_8_77:
+feature:6 59.9333333333 0.0666912112765 5.90514190993
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.79564048201
+ ------------ 
+slim_cylinder_8/world_cylinder_8_78:
+feature:7 70.4285714286 0.066428233314 10.4492903391
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.2381382528
+ ------------ 
+slim_cylinder_8/world_cylinder_8_79:
+feature:7 64.7619047619 0.0649029611319 6.15256126169
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 118.68556163
+ ------------ 
+slim_cylinder_8/world_cylinder_8_80:
+feature:6 62.2 0.0636932625046 9.03985751241
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 154.864518614
+ ------------ 
+slim_cylinder_8/world_cylinder_8_81:
+feature:6 55.9333333333 0.0609845894914 6.65957310296
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 82.1256719134
+ ------------ 
+slim_cylinder_8/world_cylinder_8_82:
+feature:8 58.3571428571 0.0666912112765 5.57418607929
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 44.4844201162
+ ------------ 
+slim_cylinder_8/world_cylinder_8_83:
+feature:8 76.3928571429 0.0666912112765 5.60599041464
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 474.152380765
+ ------------ 
+slim_cylinder_8/world_cylinder_8_84:
+feature:5 50.7 0.0636143691159 3.96971412771
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 811.582398909
+ ------------ 
+slim_cylinder_8/world_cylinder_8_85:
+feature:8 69.0 0.0666912112765 7.77707228943
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 371.968029267
+ ------------ 
+slim_cylinder_8/world_cylinder_8_86:
+feature:6 63.8666666667 0.0632199021722 4.48463076134
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 282.723625864
+ ------------ 
+slim_cylinder_8/world_cylinder_8_87:
+feature:4 60.8333333333 0.0601693578078 2.4928277455
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 559.377043654
+ ------------ 
+slim_cylinder_8/world_cylinder_8_88:
+feature:7 70.0 0.0631673065797 10.3850105117
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 77.2498341975
+ ------------ 
+slim_cylinder_8/world_cylinder_8_89:
+feature:7 61.2380952381 0.0654289170568 9.08531681374
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 463.372108463
+ ------------ 
+slim_cylinder_8/world_cylinder_8_90:
+feature:5 50.8 0.061589438805 4.60910680018
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 414.006147733
+ ------------ 
+slim_cylinder_8/world_cylinder_8_91:
+feature:6 64.1333333333 0.0666912112765 5.1275243311
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 7.56684696634
+ ------------ 
+slim_cylinder_8/world_cylinder_8_92:
+feature:7 56.9047619048 0.06148424762 6.76020884158
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 216.524851797
+ ------------ 
+slim_cylinder_8/world_cylinder_8_93:
+feature:7 67.0476190476 0.066533424499 7.34833356126
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 143.644578097
+ ------------ 
+slim_cylinder_8/world_cylinder_8_94:
+feature:7 54.8095238095 0.0661652553516 8.87472562788
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.7907421281
+ ------------ 
+slim_cylinder_8/world_cylinder_8_95:
+feature:7 64.6666666667 0.0637721558933 5.8015365133
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 108.822513263
+ ------------ 
+slim_cylinder_8/world_cylinder_8_96:
+feature:5 65.5 0.0561720927786 3.97543196339
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 140.492156946
+ ------------ 
+slim_cylinder_8/world_cylinder_8_97:
+feature:6 60.8 0.0636932625046 3.84681908801
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 97.5034506924
+ ------------ 
+slim_cylinder_8/world_cylinder_8_98:
+feature:7 55.8571428571 0.0666912112765 13.7000202889
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 27.2403054317
+ ------------ 
+slim_cylinder_8/world_cylinder_8_99:
+feature:7 73.9047619048 0.0666912112765 9.39547705079
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.0315156931
+ ------------ 
+slim_cylinder_12/world_cylinder_12_0:
+feature:5 71.9 0.0874138747173 3.26796257683
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 155.31759776
+ ------------ 
+slim_cylinder_12/world_cylinder_12_1:
+feature:11 70.1818181818 0.100036816915 12.5728717744
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.12985825293
+ ------------ 
+slim_cylinder_12/world_cylinder_12_2:
+feature:5 56.9 0.0952506179982 4.66628538853
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 70.5727808299
+ ------------ 
+slim_cylinder_12/world_cylinder_12_3:
+feature:9 55.6944444444 0.0948298532583 4.977231617
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.3711299855
+ ------------ 
+slim_cylinder_12/world_cylinder_12_4:
+feature:5 51.9 0.0912796507653 3.49104903098
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 71.8921197399
+ ------------ 
+slim_cylinder_12/world_cylinder_12_5:
+feature:7 58.1428571429 0.0977752064377 7.76935485327
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 71.8921197399
+ ------------ 
+slim_cylinder_12/world_cylinder_12_6:
+feature:9 46.4722222222 0.0991952874349 9.47529053036
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.20666483683
+ ------------ 
+slim_cylinder_12/world_cylinder_12_7:
+feature:6 55.0 0.0978278020302 6.63103069868
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.20666483683
+ ------------ 
+slim_cylinder_12/world_cylinder_12_8:
+feature:6 60.6666666667 0.0933045810761 6.29847929331
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.2703327925
+ ------------ 
+slim_cylinder_12/world_cylinder_12_9:
+feature:8 67.3214285714 0.0972755483091 6.81900949165
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 36.0087481568
+ ------------ 
+slim_cylinder_12/world_cylinder_12_10:
+feature:6 71.6666666667 0.0840740545942 9.3460688623
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.7788680493
+ ------------ 
+slim_cylinder_12/world_cylinder_12_11:
+feature:10 48.3555555556 0.0998790301373 11.3790612239
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 91.7061159087
+ ------------ 
+slim_cylinder_12/world_cylinder_12_12:
+feature:10 76.8666666667 0.0988271182875 11.3405778671
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 91.7061159087
+ ------------ 
+slim_cylinder_12/world_cylinder_12_13:
+feature:7 58.2380952381 0.0864408562562 8.63227034122
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.15243796969
+ ------------ 
+slim_cylinder_12/world_cylinder_12_14:
+feature:5 61.6 0.0945931730921 6.99241784409
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 342.794134601
+ ------------ 
+slim_cylinder_12/world_cylinder_12_15:
+feature:7 52.3333333333 0.0950665334245 9.01276976475
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 342.794134601
+ ------------ 
+slim_cylinder_12/world_cylinder_12_16:
+feature:8 58.0 0.0974070372903 5.36146544462
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 36.7848527446
+ ------------ 
+slim_cylinder_12/world_cylinder_12_17:
+feature:4 37.8333333333 0.087492768106 6.27519228104
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 36.7848527446
+ ------------ 
+slim_cylinder_12/world_cylinder_12_18:
+feature:8 67.6071428571 0.0980381844001 7.11020609817
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.9835716948
+ ------------ 
+slim_cylinder_12/world_cylinder_12_19:
+feature:9 54.5833333333 0.0954347025719 7.52112109983
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.41720002897
+ ------------ 
+slim_cylinder_12/world_cylinder_12_20:
+feature:9 56.2777777778 0.0926734339662 9.18886235443
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 121.491499035
+ ------------ 
+slim_cylinder_12/world_cylinder_12_21:
+feature:8 52.4642857143 0.0943827907221 7.8620121969
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.83186000628
+ ------------ 
+slim_cylinder_12/world_cylinder_12_22:
+feature:6 51.6 0.0950402356283 5.19970704748
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 146.36285409
+ ------------ 
+slim_cylinder_12/world_cylinder_12_23:
+feature:8 49.6785714286 0.0960395518856 12.8154336102
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.56648035265
+ ------------ 
+slim_cylinder_12/world_cylinder_12_24:
+feature:10 44.2888888889 0.0986956293063 9.23099747743
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 27.4536707813
+ ------------ 
+slim_cylinder_12/world_cylinder_12_25:
+feature:7 55.7142857143 0.0944616841109 5.17621802306
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 50.4369695153
+ ------------ 
+slim_cylinder_12/world_cylinder_12_26:
+feature:10 55.0222222222 0.100036816915 10.3659731933
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.00510478585
+ ------------ 
+slim_cylinder_12/world_cylinder_12_27:
+feature:7 62.0952380952 0.0984852469363 8.53215476502
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 60.0452284715
+ ------------ 
+slim_cylinder_12/world_cylinder_12_28:
+feature:8 64.1428571429 0.0945931730921 7.52549193146
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.8859843069
+ ------------ 
+slim_cylinder_12/world_cylinder_12_29:
+feature:6 59.2 0.091568926524 6.7890269367
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.8859843069
+ ------------ 
+slim_cylinder_12/world_cylinder_12_30:
+feature:9 57.5277777778 0.0845737127229 9.02902489155
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 193.402992733
+ ------------ 
+slim_cylinder_12/world_cylinder_12_31:
+feature:7 49.2857142857 0.0895176984169 9.53681380331
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.8507047074
+ ------------ 
+slim_cylinder_12/world_cylinder_12_32:
+feature:9 54.1944444444 0.0936464524273 5.75511212267
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 86.2461059073
+ ------------ 
+slim_cylinder_12/world_cylinder_12_33:
+feature:8 61.9285714286 0.0928838163362 10.5324018256
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 86.2461059073
+ ------------ 
+slim_cylinder_12/world_cylinder_12_34:
+feature:8 49.4285714286 0.0966444011992 10.9060447623
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 86.2461059073
+ ------------ 
+slim_cylinder_12/world_cylinder_12_35:
+feature:10 54.6888888889 0.0975385262715 11.3362738165
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 122.129126993
+ ------------ 
+slim_cylinder_12/world_cylinder_12_36:
+feature:9 79.0833333333 0.0943038973334 10.4746140173
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 122.129126993
+ ------------ 
+slim_cylinder_12/world_cylinder_12_37:
+feature:9 63.9722222222 0.0974596328828 14.757070448
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 122.129126993
+ ------------ 
+slim_cylinder_12/world_cylinder_12_38:
+feature:9 58.3055555556 0.0901488455267 7.97467821348
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 83.4744946379
+ ------------ 
+slim_cylinder_12/world_cylinder_12_39:
+feature:8 52.6428571429 0.0861515804976 6.61974126691
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 469.243705199
+ ------------ 
+slim_cylinder_12/world_cylinder_12_40:
+feature:8 70.1428571429 0.0956450849419 8.82442667763
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 214.081185712
+ ------------ 
+slim_cylinder_12/world_cylinder_12_41:
+feature:9 63.0555555556 0.0983537579551 7.86835210624
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 289.700500891
+ ------------ 
+slim_cylinder_12/world_cylinder_12_42:
+feature:6 38.8666666667 0.0895965918056 4.67339764914
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 191.658075693
+ ------------ 
+slim_cylinder_12/world_cylinder_12_43:
+feature:7 46.5714285714 0.0893862094356 6.21489077953
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 191.658075693
+ ------------ 
+slim_cylinder_12/world_cylinder_12_44:
+feature:9 55.8611111111 0.0969336769579 10.921067945
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.72895722651
+ ------------ 
+slim_cylinder_12/world_cylinder_12_45:
+feature:5 38.4 0.0925945405775 3.40160094933
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.72895722651
+ ------------ 
+slim_cylinder_12/world_cylinder_12_46:
+feature:9 40.7777777778 0.0962762320518 5.05830033009
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 73.1804214412
+ ------------ 
+slim_cylinder_12/world_cylinder_12_47:
+feature:9 67.3611111111 0.087703150476 9.89370959581
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 157.588417001
+ ------------ 
+slim_cylinder_12/world_cylinder_12_48:
+feature:7 58.0 0.0934623678536 6.22489249594
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 70.9808135185
+ ------------ 
+slim_cylinder_12/world_cylinder_12_49:
+feature:8 48.3214285714 0.0872560879398 7.59260809019
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 47.1293041287
+ ------------ 
+slim_cylinder_12/world_cylinder_12_50:
+feature:8 64.0714285714 0.0982222689739 10.5065167192
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 47.1293041287
+ ------------ 
+slim_cylinder_12/world_cylinder_12_51:
+feature:11 73.0545454545 0.0999842213223 9.63750384697
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.1524616096
+ ------------ 
+slim_cylinder_12/world_cylinder_12_52:
+feature:8 51.0 0.0964340188292 6.26203123255
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.2778127786
+ ------------ 
+slim_cylinder_12/world_cylinder_12_53:
+feature:8 56.0714285714 0.0912007573765 4.02571129071
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.2778127786
+ ------------ 
+slim_cylinder_12/world_cylinder_12_54:
+feature:11 58.3090909091 0.0979066954189 11.1774770438
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.7702087227
+ ------------ 
+slim_cylinder_12/world_cylinder_12_55:
+feature:8 50.6785714286 0.0954084047757 6.08129089917
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.0961794089
+ ------------ 
+slim_cylinder_12/world_cylinder_12_56:
+feature:8 63.3928571429 0.0971703571241 4.74429807101
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.0482283532
+ ------------ 
+slim_cylinder_12/world_cylinder_12_57:
+feature:8 69.5714285714 0.0932256876874 7.50915469618
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.00191946463
+ ------------ 
+slim_cylinder_12/world_cylinder_12_58:
+feature:8 60.75 0.0894914006206 4.9326938569
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 103.341607962
+ ------------ 
+slim_cylinder_12/world_cylinder_12_59:
+feature:7 58.9047619048 0.0910166728028 4.54037703735
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 74.7930119076
+ ------------ 
+slim_cylinder_12/world_cylinder_12_60:
+feature:9 51.3333333333 0.0966969967917 7.68794156025
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.7763048333
+ ------------ 
+slim_cylinder_12/world_cylinder_12_61:
+feature:8 57.6071428571 0.0951717246095 6.78342894281
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.361043403
+ ------------ 
+slim_cylinder_12/world_cylinder_12_62:
+feature:7 59.3333333333 0.0956450849419 7.20109746849
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.361043403
+ ------------ 
+slim_cylinder_12/world_cylinder_12_63:
+feature:7 46.6666666667 0.09264713617 7.10371661624
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.182789672925
+ ------------ 
+slim_cylinder_12/world_cylinder_12_64:
+feature:6 41.6 0.0944353863146 5.07768579738
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 61.841192625
+ ------------ 
+slim_cylinder_12/world_cylinder_12_65:
+feature:7 68.619047619 0.0891758270657 6.96744990616
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 58.8429479076
+ ------------ 
+slim_cylinder_12/world_cylinder_12_66:
+feature:5 49.5 0.0820754220796 5.87156057661
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 82.043851802
+ ------------ 
+slim_cylinder_12/world_cylinder_12_67:
+feature:9 52.0 0.0944879819071 7.00745148977
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.6652327635
+ ------------ 
+slim_cylinder_12/world_cylinder_12_68:
+feature:10 63.3777777778 0.0966444011992 9.85494715972
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.3424665128
+ ------------ 
+slim_cylinder_12/world_cylinder_12_69:
+feature:8 57.3571428571 0.0929364119287 6.91836041784
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 12.8383280596
+ ------------ 
+slim_cylinder_12/world_cylinder_12_70:
+feature:10 62.2 0.100036816915 9.6238445119
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 12.8383280596
+ ------------ 
+slim_cylinder_12/world_cylinder_12_71:
+feature:8 54.4285714286 0.0950928312207 11.1696868357
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.3208480834
+ ------------ 
+slim_cylinder_12/world_cylinder_12_72:
+feature:7 54.1904761905 0.0897280807868 6.21454459411
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 66.5028558363
+ ------------ 
+slim_cylinder_12/world_cylinder_12_73:
+feature:7 55.1428571429 0.0916215221164 5.86486470664
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.761010837
+ ------------ 
+slim_cylinder_12/world_cylinder_12_74:
+feature:7 68.5714285714 0.0984852469363 8.18329802019
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 46.8290737749
+ ------------ 
+slim_cylinder_12/world_cylinder_12_75:
+feature:8 74.6785714286 0.0973018461053 8.76775678838
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.8565397672
+ ------------ 
+slim_cylinder_12/world_cylinder_12_76:
+feature:7 55.0952380952 0.0965655078104 7.88162141147
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.1709581034
+ ------------ 
+slim_cylinder_12/world_cylinder_12_77:
+feature:9 54.5833333333 0.0918056066902 10.2314771348
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 7.66611279137
+ ------------ 
+slim_cylinder_12/world_cylinder_12_78:
+feature:8 70.5714285714 0.089964760953 9.77240929392
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 52.0993609747
+ ------------ 
+slim_cylinder_12/world_cylinder_12_79:
+feature:9 50.7222222222 0.0983011623626 6.8882163127
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.558617917
+ ------------ 
+slim_cylinder_12/world_cylinder_12_80:
+feature:8 67.8214285714 0.0987219271025 7.5590367284
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.558617917
+ ------------ 
+slim_cylinder_12/world_cylinder_12_81:
+feature:7 52.380952381 0.0905959080629 9.59850465361
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.558617917
+ ------------ 
+slim_cylinder_12/world_cylinder_12_82:
+feature:9 74.5833333333 0.0928838163362 10.1593121046
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 55.1505948779
+ ------------ 
+slim_cylinder_12/world_cylinder_12_83:
+feature:11 70.0181818182 0.0994056698049 16.6459205678
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.3046882176
+ ------------ 
+slim_cylinder_12/world_cylinder_12_84:
+feature:9 55.8611111111 0.0980381844001 15.7978351703
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.3046882176
+ ------------ 
+slim_cylinder_12/world_cylinder_12_85:
+feature:4 21.3333333333 0.0907536948404 2.57479829379
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.3710444103
+ ------------ 
+slim_cylinder_12/world_cylinder_12_86:
+feature:8 53.8928571429 0.0894388050281 8.92627161265
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 70.1656806522
+ ------------ 
+slim_cylinder_12/world_cylinder_12_87:
+feature:5 34.3 0.0929627097249 4.45909232687
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.23394930762
+ ------------ 
+slim_cylinder_12/world_cylinder_12_88:
+feature:9 64.0555555556 0.0973544416978 9.25029626495
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.23394930762
+ ------------ 
+slim_cylinder_12/world_cylinder_12_89:
+feature:8 63.6785714286 0.0883605953821 5.23672267345
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.0415628604
+ ------------ 
+slim_cylinder_12/world_cylinder_12_90:
+feature:10 68.1555555556 0.0999053279335 7.15489903682
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.5374539186
+ ------------ 
+slim_cylinder_12/world_cylinder_12_91:
+feature:8 62.1785714286 0.0951454268132 5.54793129996
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.5374539186
+ ------------ 
+slim_cylinder_12/world_cylinder_12_92:
+feature:7 48.5714285714 0.0944353863146 6.26034764722
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 14.1989680965
+ ------------ 
+slim_cylinder_12/world_cylinder_12_93:
+feature:9 53.4444444444 0.0940146215747 13.6902741768
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.932837102
+ ------------ 
+slim_cylinder_12/world_cylinder_12_94:
+feature:8 61.6428571429 0.0908325882291 6.23270858736
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.932837102
+ ------------ 
+slim_cylinder_12/world_cylinder_12_95:
+feature:7 58.2857142857 0.0933571766686 11.2013167227
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.932837102
+ ------------ 
+slim_cylinder_12/world_cylinder_12_96:
+feature:4 63.6666666667 0.0842318413717 3.19975583145
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.7982177267
+ ------------ 
+slim_cylinder_12/world_cylinder_12_97:
+feature:10 79.7777777778 0.0941461105559 11.0195697765
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.5256062254
+ ------------ 
+slim_cylinder_12/world_cylinder_12_98:
+feature:8 55.0714285714 0.0922526692263 6.82344202746
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.9091611278
+ ------------ 
+slim_cylinder_12/world_cylinder_12_99:
+feature:7 67.5238095238 0.0836006942618 11.8248895747
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 18.174774162
+ ------------ 
+slim_cylinder_6/world_cylinder_6_0:
+feature:5 75.5 0.0458633566507 5.51624121528
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.00820445751787
+ ------------ 
+slim_cylinder_6/world_cylinder_6_1:
+feature:5 48.0 0.0500184084574 2.95827317674
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 89.5790590825
+ ------------ 
+slim_cylinder_6/world_cylinder_6_2:
+feature:6 85.9333333333 0.0500184084574 7.22463428017
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 82.7884797241
+ ------------ 
+slim_cylinder_6/world_cylinder_6_3:
+feature:5 72.7 0.0490190922001 3.4915447884
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 98.844381902
+ ------------ 
+slim_cylinder_6/world_cylinder_6_4:
+feature:5 63.5 0.0489664966076 5.71392104604
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 77.3804473017
+ ------------ 
+slim_cylinder_6/world_cylinder_6_5:
+feature:6 68.0666666667 0.0500184084574 3.77589845309
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 115.371552311
+ ------------ 
+slim_cylinder_6/world_cylinder_6_6:
+feature:5 72.9 0.0440488087098 4.1610527984
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.46313873838
+ ------------ 
+slim_cylinder_6/world_cylinder_6_7:
+feature:6 70.1333333333 0.0500184084574 6.95783692977
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 82.4355383765
+ ------------ 
+slim_cylinder_6/world_cylinder_6_8:
+feature:6 68.4666666667 0.0500184084574 3.63278048753
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 93.1232578953
+ ------------ 
+slim_cylinder_6/world_cylinder_6_9:
+feature:6 75.9333333333 0.0500184084574 9.86087100314
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.5795593938
+ ------------ 
+slim_cylinder_6/world_cylinder_6_10:
+feature:4 78.3333333333 0.0490716877926 5.84506112138
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 88.3043511146
+ ------------ 
+slim_cylinder_6/world_cylinder_6_11:
+feature:4 56.0 0.0500184084574 4.64860845605
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.08049127664
+ ------------ 
+slim_cylinder_6/world_cylinder_6_12:
+feature:6 47.6666666667 0.0500184084574 7.06289877754
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 55.676693865
+ ------------ 
+slim_cylinder_6/world_cylinder_6_13:
+feature:5 80.2 0.0484931362752 5.28053497614
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 90.5359227839
+ ------------ 
+slim_cylinder_6/world_cylinder_6_14:
+feature:4 63.5 0.0458633566507 7.07907924756
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 57.4130043533
+ ------------ 
+slim_cylinder_6/world_cylinder_6_15:
+feature:6 67.2666666667 0.0500184084574 6.84451030353
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 74.8478900143
+ ------------ 
+slim_cylinder_6/world_cylinder_6_16:
+feature:5 60.0 0.0464419081681 5.01419476721
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 65.01497525
+ ------------ 
+slim_cylinder_6/world_cylinder_6_17:
+feature:4 31.5 0.0443380844685 4.08138182125
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 113.04584326
+ ------------ 
+slim_cylinder_6/world_cylinder_6_18:
+feature:6 49.4 0.0500184084574 7.27878918659
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 74.6894499711
+ ------------ 
+slim_cylinder_6/world_cylinder_6_19:
+feature:6 73.1333333333 0.0500184084574 8.60265775944
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.5039975845
+ ------------ 
+slim_cylinder_6/world_cylinder_6_20:
+feature:5 77.8 0.0500184084574 4.57122697277
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.76872887167
+ ------------ 
+slim_cylinder_6/world_cylinder_6_21:
+feature:4 54.1666666667 0.0419975806027 1.59516176472
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 83.5618549981
+ ------------ 
+slim_cylinder_6/world_cylinder_6_22:
+feature:6 71.2666666667 0.0500184084574 4.44556274127
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 82.1926379286
+ ------------ 
+slim_cylinder_6/world_cylinder_6_23:
+feature:5 56.5 0.0438121285436 6.77140399886
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 57.8084425295
+ ------------ 
+slim_cylinder_6/world_cylinder_6_24:
+feature:5 69.4 0.0498606216799 6.24122554137
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.8998346626
+ ------------ 
+slim_cylinder_6/world_cylinder_6_25:
+feature:5 52.9 0.0500184084574 6.52946817371
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 35.3083182279
+ ------------ 
+slim_cylinder_6/world_cylinder_6_26:
+feature:6 77.6666666667 0.0500184084574 5.58697114923
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.4897195421
+ ------------ 
+slim_cylinder_6/world_cylinder_6_27:
+feature:5 72.7 0.0500184084574 4.97237138029
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.9611900958
+ ------------ 
+slim_cylinder_6/world_cylinder_6_28:
+feature:5 62.9 0.0500184084574 4.99790570518
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.902778717
+ ------------ 
+slim_cylinder_6/world_cylinder_6_29:
+feature:6 81.3333333333 0.0500184084574 9.81832209919
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.3810663415
+ ------------ 
+slim_cylinder_6/world_cylinder_6_30:
+feature:5 80.1 0.0500184084574 3.53769180888
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 123.795241598
+ ------------ 
+slim_cylinder_6/world_cylinder_6_31:
+feature:4 36.1666666667 0.0485457318677 1.60862556893
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.81822756458
+ ------------ 
+slim_cylinder_6/world_cylinder_6_32:
+feature:6 74.1333333333 0.0500184084574 4.48729128797
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.986847204259
+ ------------ 
+slim_cylinder_6/world_cylinder_6_33:
+feature:5 70.0 0.0489927944038 3.10092663758
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 108.442130243
+ ------------ 
+slim_cylinder_6/world_cylinder_6_34:
+feature:4 42.6666666667 0.0490716877926 3.49647843633
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 132.584061803
+ ------------ 
+slim_cylinder_6/world_cylinder_6_35:
+feature:5 59.0 0.0494661547362 5.69944469102
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 207.225081921
+ ------------ 
+slim_cylinder_6/world_cylinder_6_36:
+feature:0 0 0 0
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 207.225081921
+ ------------ 
+slim_cylinder_6/world_cylinder_6_37:
+feature:6 68.7333333333 0.0500184084574 5.35063244343
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1732.78030909
+ ------------ 
+slim_cylinder_6/world_cylinder_6_38:
+feature:5 50.2 0.0454425919108 7.0035675866
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 571.029211544
+ ------------ 
+slim_cylinder_6/world_cylinder_6_39:
+feature:4 66.6666666667 0.0449955293746 1.75358052408
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 207.329303374
+ ------------ 
+slim_cylinder_6/world_cylinder_6_40:
+feature:5 86.3 0.0476779045916 8.56811086476
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.21598244539
+ ------------ 
+slim_cylinder_6/world_cylinder_6_41:
+feature:6 56.6666666667 0.0500184084574 3.08288329336
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 752.422570753
+ ------------ 
+slim_cylinder_6/world_cylinder_6_42:
+feature:6 72.9333333333 0.0500184084574 3.71395653202
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.10960285841
+ ------------ 
+slim_cylinder_6/world_cylinder_6_43:
+feature:4 79.6666666667 0.0397885657182 4.85125804674
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 362.97396522
+ ------------ 
+slim_cylinder_6/world_cylinder_6_44:
+feature:5 58.9 0.0494924525325 3.64065729194
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 7.02151869001
+ ------------ 
+slim_cylinder_6/world_cylinder_6_45:
+feature:6 70.4 0.0500184084574 4.09392707121
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 203.397958222
+ ------------ 
+slim_cylinder_6/world_cylinder_6_46:
+feature:3 39.0 0.0489139010151 4.00128515311
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 233.609991242
+ ------------ 
+slim_cylinder_6/world_cylinder_6_47:
+feature:3 72.6666666667 0.0477042023878 2.91452470872
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.53095138687
+ ------------ 
+slim_cylinder_6/world_cylinder_6_48:
+feature:6 69.0666666667 0.0500184084574 6.99386821793
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 77.5691958523
+ ------------ 
+slim_cylinder_6/world_cylinder_6_49:
+feature:5 49.8 0.044495871246 2.99264658306
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 258.075677056
+ ------------ 
+slim_cylinder_6/world_cylinder_6_50:
+feature:6 58.6666666667 0.0500184084574 4.97585719075
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 93.2868168513
+ ------------ 
+slim_cylinder_6/world_cylinder_6_51:
+feature:5 68.9 0.0500184084574 7.69610979938
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 94.8538554404
+ ------------ 
+slim_cylinder_6/world_cylinder_6_52:
+feature:3 37.0 0.0479145847578 0.937989247983
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.80027641832
+ ------------ 
+slim_cylinder_6/world_cylinder_6_53:
+feature:5 63.5 0.0474938200179 8.6384877734
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 62.5527010687
+ ------------ 
+slim_cylinder_6/world_cylinder_6_54:
+feature:6 76.9333333333 0.0500184084574 5.0148758962
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 168.16617736
+ ------------ 
+slim_cylinder_6/world_cylinder_6_55:
+feature:3 13.6666666667 0.0450481249671 0.898240202144
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 205.437231073
+ ------------ 
+slim_cylinder_6/world_cylinder_6_56:
+feature:5 60.1 0.0500184084574 5.40435336953
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 55.2296021917
+ ------------ 
+slim_cylinder_6/world_cylinder_6_57:
+feature:5 76.2 0.0479145847578 7.28681716084
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.71432905036
+ ------------ 
+slim_cylinder_6/world_cylinder_6_58:
+feature:5 32.0 0.0446799558197 4.15320529581
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 156.085813782
+ ------------ 
+slim_cylinder_6/world_cylinder_6_59:
+feature:6 70.4666666667 0.0500184084574 5.93602241958
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 123.474340104
+ ------------ 
+slim_cylinder_6/world_cylinder_6_60:
+feature:5 77.3 0.0500184084574 4.66346953828
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 59.28135588
+ ------------ 
+slim_cylinder_6/world_cylinder_6_61:
+feature:5 57.3 0.0498606216799 3.7324078811
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 159.656079337
+ ------------ 
+slim_cylinder_6/world_cylinder_6_62:
+feature:4 76.5 0.0462315257981 4.16578197404
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 130.081586224
+ ------------ 
+slim_cylinder_6/world_cylinder_6_63:
+feature:4 38.1666666667 0.0443380844685 3.45371346419
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.08482256073
+ ------------ 
+slim_cylinder_6/world_cylinder_6_64:
+feature:6 41.9333333333 0.0500184084574 4.62012173403
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 98.3079498638
+ ------------ 
+slim_cylinder_6/world_cylinder_6_65:
+feature:6 66.1333333333 0.0500184084574 7.45845783124
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 114.347733185
+ ------------ 
+slim_cylinder_6/world_cylinder_6_66:
+feature:4 60.1666666667 0.0485457318677 3.36903207268
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 130.286662544
+ ------------ 
+slim_cylinder_6/world_cylinder_6_67:
+feature:5 49.6 0.0500184084574 1.41158893317
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 146.764959327
+ ------------ 
+slim_cylinder_6/world_cylinder_6_68:
+feature:5 69.4 0.0443380844685 5.35933046
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 91.6113383647
+ ------------ 
+slim_cylinder_6/world_cylinder_6_69:
+feature:6 73.4666666667 0.0500184084574 5.91812666113
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 310.509016158
+ ------------ 
+slim_cylinder_6/world_cylinder_6_70:
+feature:5 53.9 0.0484405406827 6.4259903035
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 127.965364825
+ ------------ 
+slim_cylinder_6/world_cylinder_6_71:
+feature:6 75.9333333333 0.0500184084574 4.34487084334
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.09993734396
+ ------------ 
+slim_cylinder_6/world_cylinder_6_72:
+feature:5 56.6 0.0492031767738 5.80491502514
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 112.112868226
+ ------------ 
+slim_cylinder_6/world_cylinder_6_73:
+feature:6 81.1333333333 0.0500184084574 5.06730581074
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 138.123772361
+ ------------ 
+slim_cylinder_6/world_cylinder_6_74:
+feature:5 45.8 0.0438121285436 6.50552734844
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 46.0031230668
+ ------------ 
+slim_cylinder_6/world_cylinder_6_75:
+feature:6 58.8666666667 0.0500184084574 8.03575918899
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 90.9511097576
+ ------------ 
+slim_cylinder_6/world_cylinder_6_76:
+feature:5 76.1 0.0498343238837 4.02531397943
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.54513018715
+ ------------ 
+slim_cylinder_6/world_cylinder_6_77:
+feature:5 68.1 0.0499132172724 6.81772137192
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 399.461756144
+ ------------ 
+slim_cylinder_6/world_cylinder_6_78:
+feature:6 59.6 0.0500184084574 5.51106273806
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 175.198192987
+ ------------ 
+slim_cylinder_6/world_cylinder_6_79:
+feature:6 47.2666666667 0.0500184084574 3.98111060115
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 145.017346133
+ ------------ 
+slim_cylinder_6/world_cylinder_6_80:
+feature:5 63.9 0.0467837795193 4.46937382056
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 162.663352635
+ ------------ 
+slim_cylinder_6/world_cylinder_6_81:
+feature:6 71.6666666667 0.0500184084574 3.93847710878
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.25364489271
+ ------------ 
+slim_cylinder_6/world_cylinder_6_82:
+feature:5 45.6 0.0493083679588 3.807701863
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 48.7912811278
+ ------------ 
+slim_cylinder_6/world_cylinder_6_83:
+feature:5 55.9 0.0499921106611 5.73040226361
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 80.5995872125
+ ------------ 
+slim_cylinder_6/world_cylinder_6_84:
+feature:5 75.8 0.0500184084574 7.52223694133
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.6989676658
+ ------------ 
+slim_cylinder_6/world_cylinder_6_85:
+feature:4 56.6666666667 0.0466522905381 3.87023821314
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.478596500282
+ ------------ 
+slim_cylinder_6/world_cylinder_6_86:
+feature:3 42.6666666667 0.0479145847578 4.69012130532
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.6541353511
+ ------------ 
+slim_cylinder_6/world_cylinder_6_87:
+feature:6 68.0666666667 0.0500184084574 5.10331288358
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.4072281882
+ ------------ 
+slim_cylinder_6/world_cylinder_6_88:
+feature:6 54.1333333333 0.0500184084574 12.127139913
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.2182859349
+ ------------ 
+slim_cylinder_6/world_cylinder_6_89:
+feature:6 57.0 0.0500184084574 5.33345582113
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.5187046349
+ ------------ 
+slim_cylinder_6/world_cylinder_6_90:
+feature:4 43.5 0.0493872613475 4.04125728788
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.69779436349
+ ------------ 
+slim_cylinder_6/world_cylinder_6_91:
+feature:5 60.2 0.0477567979803 4.38455187376
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.6683070657
+ ------------ 
+slim_cylinder_6/world_cylinder_6_92:
+feature:6 91.6 0.0500184084574 3.26129625627
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 52.3039062093
+ ------------ 
+slim_cylinder_6/world_cylinder_6_93:
+feature:5 66.4 0.0498606216799 6.31706733698
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 84.0104204667
+ ------------ 
+slim_cylinder_6/world_cylinder_6_94:
+feature:4 70.3333333333 0.0500184084574 2.65404352012
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 95.0186697012
+ ------------ 
+slim_cylinder_6/world_cylinder_6_95:
+feature:5 89.4 0.0487561142376 5.95863759875
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 86.8364085212
+ ------------ 
+slim_cylinder_6/world_cylinder_6_96:
+feature:6 83.5333333333 0.0500184084574 6.58349111228
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.81434239915
+ ------------ 
+slim_cylinder_6/world_cylinder_6_97:
+feature:6 51.6 0.0500184084574 3.9855391325
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 59.1931615865
+ ------------ 
+slim_cylinder_6/world_cylinder_6_98:
+feature:5 64.3 0.0472834376479 5.18087896425
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 72.069439658
+ ------------ 
+slim_cylinder_6/world_cylinder_6_99:
+feature:5 82.4 0.044495871246 4.5740990609
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 99.1414920023
+ ------------ 
+slim_cylinder_10/world_cylinder_10_37:
+feature:8 83.0714285714 0.0795245358439 9.44825911826
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 45.6984204514
+ ------------ 
+slim_cylinder_10/world_cylinder_10_38:
+feature:6 61.4666666667 0.0784989217904 5.90559834274
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.0421328363
+ ------------ 
+slim_cylinder_10/world_cylinder_10_39:
+feature:9 68.1944444444 0.0792352600852 11.2597925431
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.0421328363
+ ------------ 
+slim_cylinder_10/world_cylinder_10_40:
+feature:4 77.6666666667 0.0740019986325 2.65362329188
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 117.180675546
+ ------------ 
+slim_cylinder_10/world_cylinder_10_41:
+feature:8 78.5714285714 0.0735812338926 8.36420868008
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.7050706045
+ ------------ 
+slim_cylinder_10/world_cylinder_10_42:
+feature:7 58.5714285714 0.071792983748 6.29692178136
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 56.0000663912
+ ------------ 
+slim_cylinder_10/world_cylinder_10_43:
+feature:6 76.2 0.0715300057855 5.02772183803
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.83716187237
+ ------------ 
+slim_cylinder_10/world_cylinder_10_44:
+feature:6 34.0 0.0761321201283 5.46963154635
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.403662387072
+ ------------ 
+slim_cylinder_10/world_cylinder_10_45:
+feature:8 59.0 0.0809446168411 9.8674532928
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 7.50010311074
+ ------------ 
+slim_cylinder_10/world_cylinder_10_46:
+feature:8 61.4285714286 0.0833114185031 5.72821604605
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.6002820554
+ ------------ 
+slim_cylinder_10/world_cylinder_10_47:
+feature:9 69.8611111111 0.0826276758008 7.63868427004
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 48.7072696661
+ ------------ 
+slim_cylinder_10/world_cylinder_10_48:
+feature:7 71.1904761905 0.0772103297744 7.05258634521
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 18.0367272393
+ ------------ 
+slim_cylinder_10/world_cylinder_10_49:
+feature:6 41.4666666667 0.0761847157208 5.72917537676
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.2386078385
+ ------------ 
+slim_cylinder_10/world_cylinder_10_50:
+feature:5 56.2 0.0808920212486 3.60296089267
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.8752015556
+ ------------ 
+slim_cylinder_10/world_cylinder_10_51:
+feature:7 64.6666666667 0.0744753589649 8.39665830202
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.7088815041
+ ------------ 
+slim_cylinder_10/world_cylinder_10_52:
+feature:9 70.0277777778 0.0770788407931 15.1162288954
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.1003709932
+ ------------ 
+slim_cylinder_10/world_cylinder_10_53:
+feature:8 71.4285714286 0.0824172934308 6.99116917226
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.8890060205
+ ------------ 
+slim_cylinder_10/world_cylinder_10_54:
+feature:7 63.380952381 0.0833640140956 6.09628972554
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.176617894
+ ------------ 
+slim_cylinder_10/world_cylinder_10_55:
+feature:7 65.4761904762 0.0804186609162 5.90472377625
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 67.6065780003
+ ------------ 
+slim_cylinder_10/world_cylinder_10_56:
+feature:8 65.5357142857 0.0770788407931 7.74777107106
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.5849818538
+ ------------ 
+slim_cylinder_10/world_cylinder_10_57:
+feature:7 51.3333333333 0.0731604691527 6.22097893636
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.1065009891
+ ------------ 
+slim_cylinder_10/world_cylinder_10_58:
+feature:7 48.9523809524 0.0807605322674 9.36766832837
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.25388467905
+ ------------ 
+slim_cylinder_10/world_cylinder_10_59:
+feature:7 59.9523809524 0.0751853994635 5.35787033216
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.349888821
+ ------------ 
+slim_cylinder_10/world_cylinder_10_60:
+feature:8 59.3928571429 0.0770525429969 6.8646101024
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 13.694079509
+ ------------ 
+slim_cylinder_10/world_cylinder_10_61:
+feature:7 62.0476190476 0.0797086204176 4.6831498066
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 19.875857234
+ ------------ 
+slim_cylinder_10/world_cylinder_10_62:
+feature:8 52.6428571429 0.07415978541 6.69915747646
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.9948380459
+ ------------ 
+slim_cylinder_10/world_cylinder_10_63:
+feature:8 64.8571428571 0.0833640140956 6.77573115519
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.8740639952
+ ------------ 
+slim_cylinder_10/world_cylinder_10_64:
+feature:7 68.3333333333 0.0792352600852 6.76483665739
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 19.7938967865
+ ------------ 
+slim_cylinder_10/world_cylinder_10_65:
+feature:10 72.0666666667 0.0833640140956 10.6147294528
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 27.5184752435
+ ------------ 
+slim_cylinder_10/world_cylinder_10_66:
+feature:6 63.5333333333 0.0748698259086 8.54227157108
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.310761147
+ ------------ 
+slim_cylinder_10/world_cylinder_10_67:
+feature:7 68.7142857143 0.0762636091096 6.28930133812
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.3566777412
+ ------------ 
+slim_cylinder_10/world_cylinder_10_68:
+feature:5 28.4 0.080287171935 3.78197525145
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.3566777412
+ ------------ 
+slim_cylinder_10/world_cylinder_10_69:
+feature:8 75.9285714286 0.0780255614579 7.10749315826
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 44.7150031847
+ ------------ 
+slim_cylinder_10/world_cylinder_10_70:
+feature:6 46.4666666667 0.0775259033293 7.2945677976
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.2974687888
+ ------------ 
+slim_cylinder_10/world_cylinder_10_71:
+feature:8 61.8571428571 0.079103771104 12.7272795399
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.9812227295
+ ------------ 
+slim_cylinder_10/world_cylinder_10_72:
+feature:7 60.8571428571 0.0729500867827 7.19553399848
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.8247388225
+ ------------ 
+slim_cylinder_10/world_cylinder_10_73:
+feature:8 69.8928571429 0.0814179771735 9.86902000396
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 51.9982298478
+ ------------ 
+slim_cylinder_10/world_cylinder_10_74:
+feature:7 54.4761904762 0.0771577341819 12.3610145876
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 79.1938527437
+ ------------ 
+slim_cylinder_10/world_cylinder_10_75:
+feature:6 42.0 0.0833640140956 6.71197157182
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 86.5134086682
+ ------------ 
+slim_cylinder_10/world_cylinder_10_76:
+feature:7 52.5714285714 0.0750539104823 13.1845947653
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.07953835295
+ ------------ 
+slim_cylinder_10/world_cylinder_10_77:
+feature:6 63.1333333333 0.0774733077368 5.9661851962
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 230.698477888
+ ------------ 
+slim_cylinder_10/world_cylinder_10_78:
+feature:6 42.8 0.0747646347236 7.96774954488
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 105.783279362
+ ------------ 
+slim_cylinder_10/world_cylinder_10_79:
+feature:5 46.5 0.0818124441172 6.04127560416
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 131.864323765
+ ------------ 
+slim_cylinder_10/world_cylinder_10_80:
+feature:7 71.0476190476 0.0740019986325 5.22713002629
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 125.489669097
+ ------------ 
+slim_cylinder_10/world_cylinder_10_81:
+feature:5 37.2 0.0754746752222 5.99604777364
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 121.448441568
+ ------------ 
+slim_cylinder_10/world_cylinder_10_82:
+feature:7 71.8095238095 0.0804186609162 7.25040850015
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 144.228773835
+ ------------ 
+slim_cylinder_10/world_cylinder_10_83:
+feature:6 62.6 0.072766002209 4.05154502004
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 211.642975969
+ ------------ 
+slim_cylinder_10/world_cylinder_10_84:
+feature:10 76.0666666667 0.0833640140956 8.29867110402
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.27086136691
+ ------------ 
+slim_cylinder_10/world_cylinder_10_85:
+feature:7 71.619047619 0.081260190396 6.15286051019
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 125.358057444
+ ------------ 
+slim_cylinder_10/world_cylinder_10_86:
+feature:10 72.4888888889 0.0833640140956 11.5206864106
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 125.358057444
+ ------------ 
+slim_cylinder_10/world_cylinder_10_87:
+feature:6 45.3333333333 0.0825750802083 6.79833217711
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 14.8429407558
+ ------------ 
+slim_cylinder_10/world_cylinder_10_88:
+feature:5 45.4 0.0760795245358 4.85103176217
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.61575686234
+ ------------ 
+slim_cylinder_10/world_cylinder_10_89:
+feature:6 39.4 0.0731867669489 3.91497765569
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.981302530454
+ ------------ 
+slim_cylinder_10/world_cylinder_10_90:
+feature:8 66.6071428571 0.0750013148898 6.6996289154
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 128.633948925
+ ------------ 
+slim_cylinder_10/world_cylinder_10_91:
+feature:6 73.2 0.0785252195866 8.21075872613
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 101.986918171
+ ------------ 
+slim_cylinder_10/world_cylinder_10_92:
+feature:7 60.1904761905 0.0833640140956 6.25252461067
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 47.0955492132
+ ------------ 
+slim_cylinder_10/world_cylinder_10_93:
+feature:10 56.3777777778 0.0833640140956 9.00645727284
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 72.5288431462
+ ------------ 
+slim_cylinder_10/world_cylinder_10_94:
+feature:8 62.5714285714 0.0813390837848 8.53155516592
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.11892780116
+ ------------ 
+slim_cylinder_10/world_cylinder_10_95:
+feature:7 47.9523809524 0.0779729658655 5.31427169963
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 227.58292337
+ ------------ 
+slim_cylinder_10/world_cylinder_10_96:
+feature:7 58.7619047619 0.0745279545574 6.78699549521
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 103.588726638
+ ------------ 
+slim_cylinder_10/world_cylinder_10_97:
+feature:8 65.8571428571 0.0816283595435 6.81766850174
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 94.2297600401
+ ------------ 
+slim_cylinder_10/world_cylinder_10_98:
+feature:6 57.6 0.0779992636617 5.24646552977
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 112.049669016
+ ------------ 
+slim_cylinder_10/world_cylinder_10_99:
+feature:9 64.0 0.0789459843265 4.88707237166
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 172.198067804
+ ------------ 
+slim_cylinder_14/world_cylinder_14_37:
+feature:7 47.7142857143 0.108715089675 8.2991232835
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 68.4527989216
+ ------------ 
+slim_cylinder_14/world_cylinder_14_38:
+feature:6 69.0 0.0900962499343 9.70675200037
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.10991944015
+ ------------ 
+slim_cylinder_14/world_cylinder_14_39:
+feature:8 67.0357142857 0.106532372587 8.42734483001
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 104.565958087
+ ------------ 
+slim_cylinder_14/world_cylinder_14_40:
+feature:9 47.9166666667 0.109793299322 12.6888912986
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 104.565958087
+ ------------ 
+slim_cylinder_14/world_cylinder_14_41:
+feature:11 67.2 0.115447325514 8.23830344062
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 111.514348811
+ ------------ 
+slim_cylinder_14/world_cylinder_14_42:
+feature:9 44.8888888889 0.116288854994 8.46621207829
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.95473148422
+ ------------ 
+slim_cylinder_14/world_cylinder_14_43:
+feature:8 56.3928571429 0.104560037869 7.19376416839
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.75546220378
+ ------------ 
+slim_cylinder_14/world_cylinder_14_44:
+feature:8 66.8214285714 0.104665229054 9.83340203643
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.9221212915
+ ------------ 
+slim_cylinder_14/world_cylinder_14_45:
+feature:6 48.4 0.110608531005 6.5219509379
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 97.960582912
+ ------------ 
+slim_cylinder_14/world_cylinder_14_46:
+feature:10 71.0444444444 0.105243780571 10.6621875665
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.34208489672
+ ------------ 
+slim_cylinder_14/world_cylinder_14_47:
+feature:8 51.3928571429 0.10903066323 7.586929178
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 67.5341270593
+ ------------ 
+slim_cylinder_14/world_cylinder_14_48:
+feature:10 69.1111111111 0.102272129596 11.7521884238
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.6836170042
+ ------------ 
+slim_cylinder_14/world_cylinder_14_49:
+feature:10 64.0444444444 0.110608531005 10.1423205809
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.6836170042
+ ------------ 
+slim_cylinder_14/world_cylinder_14_50:
+feature:9 67.5555555556 0.104612633461 6.91949920774
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 49.6836170042
+ ------------ 
+slim_cylinder_14/world_cylinder_14_51:
+feature:9 58.8055555556 0.112791248093 9.50492610243
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 65.6112510799
+ ------------ 
+slim_cylinder_14/world_cylinder_14_52:
+feature:8 54.3928571429 0.109214747804 9.77010134401
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 46.1272885391
+ ------------ 
+slim_cylinder_14/world_cylinder_14_53:
+feature:9 50.9444444444 0.114316520276 7.6804782653
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.1097868015
+ ------------ 
+slim_cylinder_14/world_cylinder_14_54:
+feature:7 58.9523809524 0.110818913375 6.58472445097
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.8037644394
+ ------------ 
+slim_cylinder_14/world_cylinder_14_55:
+feature:9 61.9444444444 0.103613317204 10.029076372
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.8037644394
+ ------------ 
+slim_cylinder_14/world_cylinder_14_56:
+feature:5 58.9 0.0909640772103 4.86731253274
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 40.5095785244
+ ------------ 
+slim_cylinder_14/world_cylinder_14_57:
+feature:8 50.7857142857 0.111423762689 6.55611446197
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.4892485308
+ ------------ 
+slim_cylinder_14/world_cylinder_14_58:
+feature:7 61.2857142857 0.113264608426 6.56366302328
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.577047823972
+ ------------ 
+slim_cylinder_14/world_cylinder_14_59:
+feature:9 62.0833333333 0.108504707306 9.04563625216
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.2647278711
+ ------------ 
+slim_cylinder_14/world_cylinder_14_60:
+feature:8 67.2857142857 0.106400883606 6.41251271096
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.4842370221
+ ------------ 
+slim_cylinder_14/world_cylinder_14_61:
+feature:10 67.2444444444 0.102403618577 8.83350021569
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.1110535448
+ ------------ 
+slim_cylinder_14/world_cylinder_14_62:
+feature:9 53.4444444444 0.109819597118 12.0649693473
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.1110535448
+ ------------ 
+slim_cylinder_14/world_cylinder_14_63:
+feature:10 59.3111111111 0.101640982486 10.0338745176
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.327881119
+ ------------ 
+slim_cylinder_14/world_cylinder_14_64:
+feature:11 54.2 0.111002997949 7.78301158497
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.327881119
+ ------------ 
+slim_cylinder_14/world_cylinder_14_65:
+feature:12 60.9696969697 0.115368432125 9.16877311707
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.131813682093
+ ------------ 
+slim_cylinder_14/world_cylinder_14_66:
+feature:11 62.4545454545 0.113080523852 9.69555247132
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.131813682093
+ ------------ 
+slim_cylinder_14/world_cylinder_14_67:
+feature:9 69.7222222222 0.110818913375 7.3183429791
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.131813682093
+ ------------ 
+slim_cylinder_14/world_cylinder_14_68:
+feature:12 70.0151515152 0.108294324936 12.8934367571
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.131813682093
+ ------------ 
+slim_cylinder_14/world_cylinder_14_69:
+feature:8 56.8214285714 0.10406037974 6.70367037267
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.1956556942
+ ------------ 
+slim_cylinder_14/world_cylinder_14_70:
+feature:8 36.8928571429 0.0995371587861 7.46190374348
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.9304245174
+ ------------ 
+slim_cylinder_14/world_cylinder_14_71:
+feature:6 41.3333333333 0.108031346973 4.83646116977
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.7859572064
+ ------------ 
+slim_cylinder_14/world_cylinder_14_72:
+feature:9 69.1111111111 0.101220217746 10.0194264617
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.40271796247
+ ------------ 
+slim_cylinder_14/world_cylinder_14_73:
+feature:10 61.1111111111 0.114579498238 11.9243333718
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.40271796247
+ ------------ 
+slim_cylinder_14/world_cylinder_14_74:
+feature:10 48.6222222222 0.11092410456 6.89405198834
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 3.83847025017
+ ------------ 
+slim_cylinder_14/world_cylinder_14_75:
+feature:8 58.6428571429 0.105348971756 9.77636653046
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.4704771906
+ ------------ 
+slim_cylinder_14/world_cylinder_14_76:
+feature:10 59.5111111111 0.108636196287 9.79621004246
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 9.72572069068
+ ------------ 
+slim_cylinder_14/world_cylinder_14_77:
+feature:7 63.2380952381 0.104454846684 6.16400794775
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 9.72572069068
+ ------------ 
+slim_cylinder_14/world_cylinder_14_78:
+feature:10 49.6666666667 0.108504707306 7.68578925855
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.4293862009
+ ------------ 
+slim_cylinder_14/world_cylinder_14_79:
+feature:9 59.4166666667 0.106243096828 8.737852871
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.4293862009
+ ------------ 
+slim_cylinder_14/world_cylinder_14_80:
+feature:9 61.6388888889 0.110187766265 12.1111435333
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 4.06835542353
+ ------------ 
+slim_cylinder_14/world_cylinder_14_81:
+feature:9 59.8055555556 0.103481828223 7.96376859601
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 6.29537150805
+ ------------ 
+slim_cylinder_14/world_cylinder_14_82:
+feature:12 65.9242424242 0.115447325514 13.4653440559
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.299341300426
+ ------------ 
+slim_cylinder_14/world_cylinder_14_83:
+feature:10 53.2888888889 0.113553884185 8.39298782747
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.299341300426
+ ------------ 
+slim_cylinder_14/world_cylinder_14_84:
+feature:9 61.7777777778 0.106321990217 10.5096298566
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.23632870543
+ ------------ 
+slim_cylinder_14/world_cylinder_14_85:
+feature:10 65.7333333333 0.113869457739 10.8057421998
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.23632870543
+ ------------ 
+slim_cylinder_14/world_cylinder_14_86:
+feature:11 70.9272727273 0.106769052753 9.58112650067
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.23632870543
+ ------------ 
+slim_cylinder_14/world_cylinder_14_87:
+feature:9 66.9166666667 0.0998790301373 9.1064453622
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 8.18316800439
+ ------------ 
+slim_cylinder_14/world_cylinder_14_88:
+feature:9 67.4166666667 0.111397464892 13.1053101022
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 8.18316800439
+ ------------ 
+slim_cylinder_14/world_cylinder_14_89:
+feature:9 51.6666666667 0.112554567927 7.43833330024
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.9974303247
+ ------------ 
+slim_cylinder_14/world_cylinder_14_90:
+feature:10 68.2888888889 0.113448693 9.12114803365
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.6885539373
+ ------------ 
+slim_cylinder_14/world_cylinder_14_91:
+feature:10 58.8444444444 0.111265975911 9.46003816925
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 15.7728919084
+ ------------ 
+slim_cylinder_14/world_cylinder_14_92:
+feature:11 55.7090909091 0.113396097407 13.2746428731
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.4759102994
+ ------------ 
+slim_cylinder_14/world_cylinder_14_93:
+feature:7 48.5714285714 0.105822332089 7.5141434151
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.9793415321
+ ------------ 
+slim_cylinder_14/world_cylinder_14_94:
+feature:11 54.0363636364 0.112344185557 10.4989826929
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 9.61945596465
+ ------------ 
+slim_cylinder_14/world_cylinder_14_95:
+feature:12 64.5757575758 0.111239678115 11.4823693734
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.0931935434
+ ------------ 
+slim_cylinder_14/world_cylinder_14_96:
+feature:12 61.4242424242 0.108346920528 10.0449816935
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.0931935434
+ ------------ 
+slim_cylinder_14/world_cylinder_14_97:
+feature:8 51.3571428571 0.107110924105 6.74584323652
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.306210096487
+ ------------ 
+slim_cylinder_14/world_cylinder_14_98:
+feature:10 69.8 0.113474990796 14.2151016024
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.306210096487
+ ------------ 
+slim_cylinder_14/world_cylinder_14_99:
+feature:6 43.5333333333 0.0951717246095 9.77742487585
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.306210096487
+ ------------ 
+slim_cylinder_16/world_cylinder_16_37:
+feature:10 56.0888888889 0.129253668543 14.3179186408
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.306210096487
+ ------------ 
+slim_cylinder_16/world_cylinder_16_38:
+feature:11 53.6 0.125545679272 10.1943503478
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.306210096487
+ ------------ 
+slim_cylinder_16/world_cylinder_16_39:
+feature:7 51.1428571429 0.108320622732 10.4440016435
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.6589363488
+ ------------ 
+slim_cylinder_16/world_cylinder_16_40:
+feature:11 60.6 0.124493767422 14.3176634699
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 13.6405211119
+ ------------ 
+slim_cylinder_16/world_cylinder_16_41:
+feature:10 56.8 0.130068900226 12.6669048458
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 13.6405211119
+ ------------ 
+slim_cylinder_16/world_cylinder_16_42:
+feature:10 61.6888888889 0.119970546468 9.20594339638
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 7.99097427982
+ ------------ 
+slim_cylinder_16/world_cylinder_16_43:
+feature:11 52.6545454545 0.124572660811 11.8300185028
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.60069664904
+ ------------ 
+slim_cylinder_16/world_cylinder_16_44:
+feature:10 49.1111111111 0.12549308368 7.29769429123
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.8562028986
+ ------------ 
+slim_cylinder_16/world_cylinder_16_45:
+feature:10 57.3333333333 0.11757744701 7.9574347766
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.8562028986
+ ------------ 
+slim_cylinder_16/world_cylinder_16_46:
+feature:7 51.3333333333 0.123888918109 10.5869922818
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.8562028986
+ ------------ 
+slim_cylinder_16/world_cylinder_16_47:
+feature:11 51.1636363636 0.127570609583 10.6829641804
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 11.8562028986
+ ------------ 
+slim_cylinder_16/world_cylinder_16_48:
+feature:10 58.5777777778 0.116920002104 9.43114946059
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.173605641333
+ ------------ 
+slim_cylinder_16/world_cylinder_16_49:
+feature:9 40.5555555556 0.127255036028 9.11232123776
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.173605641333
+ ------------ 
+slim_cylinder_16/world_cylinder_16_50:
+feature:11 56.1272727273 0.125598274865 11.5969610804
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.53640877989
+ ------------ 
+slim_cylinder_16/world_cylinder_16_51:
+feature:7 34.380952381 0.120522800189 5.32215775221
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 8.04156926654
+ ------------ 
+slim_cylinder_16/world_cylinder_16_52:
+feature:7 49.5238095238 0.121679903224 6.95406488701
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 8.04156926654
+ ------------ 
+slim_cylinder_16/world_cylinder_16_53:
+feature:10 58.4666666667 0.121153947299 7.22657011265
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.320439932992
+ ------------ 
+slim_cylinder_16/world_cylinder_16_54:
+feature:7 48.4761904762 0.114079840109 5.85089644251
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.098487472444
+ ------------ 
+slim_cylinder_16/world_cylinder_16_55:
+feature:8 62.75 0.120312417819 8.24515620567
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.049166566542
+ ------------ 
+slim_cylinder_16/world_cylinder_16_56:
+feature:10 59.6888888889 0.12212696576 8.30761262976
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.3094319238
+ ------------ 
+slim_cylinder_16/world_cylinder_16_57:
+feature:10 59.0444444444 0.127544311787 7.40803700761
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.3094319238
+ ------------ 
+slim_cylinder_16/world_cylinder_16_58:
+feature:9 53.1944444444 0.129911113449 7.13753799397
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 19.0716918528
+ ------------ 
+slim_cylinder_16/world_cylinder_16_59:
+feature:12 73.0151515152 0.123126282018 12.5127798761
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.445091563473
+ ------------ 
+slim_cylinder_16/world_cylinder_16_60:
+feature:10 50.2666666667 0.124809340977 11.6733924438
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 5.55278686079
+ ------------ 
+slim_cylinder_16/world_cylinder_16_61:
+feature:9 58.0 0.114263924683 10.2608915848
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.443989552043
+ ------------ 
+slim_cylinder_16/world_cylinder_16_62:
+feature:11 54.3454545455 0.127649502972 7.43809341233
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.9096165638
+ ------------ 
+slim_cylinder_16/world_cylinder_16_63:
+feature:9 40.1388888889 0.127018355862 10.4997317917
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.502227834479
+ ------------ 
+slim_cylinder_16/world_cylinder_16_64:
+feature:9 54.3333333333 0.115946983643 8.52557006152
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.5837837301
+ ------------ 
+slim_cylinder_16/world_cylinder_16_65:
+feature:8 53.0714285714 0.12296849524 7.21734359243
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 64.2303657599
+ ------------ 
+slim_cylinder_16/world_cylinder_16_66:
+feature:10 46.3777777778 0.122705517278 14.0563610949
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.2235496246
+ ------------ 
+slim_cylinder_16/world_cylinder_16_67:
+feature:10 49.7111111111 0.129516646505 10.9047552059
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.2235496246
+ ------------ 
+slim_cylinder_16/world_cylinder_16_68:
+feature:8 63.9642857143 0.125046021143 8.34859691202
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.3371293953
+ ------------ 
+slim_cylinder_16/world_cylinder_16_69:
+feature:13 69.9871794872 0.128596223636 15.2047842039
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.3371293953
+ ------------ 
+slim_cylinder_16/world_cylinder_16_70:
+feature:11 60.2727272727 0.132304212907 16.6113348663
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.3371293953
+ ------------ 
+slim_cylinder_16/world_cylinder_16_71:
+feature:13 66.1538461538 0.121416925262 11.2639066973
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 18.9258264238
+ ------------ 
+slim_cylinder_16/world_cylinder_16_72:
+feature:8 54.0714285714 0.122626623889 5.21812668668
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 18.9258264238
+ ------------ 
+slim_cylinder_16/world_cylinder_16_73:
+feature:9 49.0833333333 0.12402040709 9.35261894714
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.427753669728
+ ------------ 
+slim_cylinder_16/world_cylinder_16_74:
+feature:8 49.7857142857 0.119996844264 7.65215242008
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 25.2744203695
+ ------------ 
+slim_cylinder_16/world_cylinder_16_75:
+feature:13 62.7307692308 0.129253668543 11.2557783734
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.2192907476
+ ------------ 
+slim_cylinder_16/world_cylinder_16_76:
+feature:9 61.25 0.119418292747 9.10602682995
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 12.9216489182
+ ------------ 
+slim_cylinder_16/world_cylinder_16_77:
+feature:11 61.9454545455 0.123494451165 10.5615858852
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 17.321007079
+ ------------ 
+slim_cylinder_16/world_cylinder_16_78:
+feature:9 58.4722222222 0.12381002472 10.2153789358
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.6898676673
+ ------------ 
+slim_cylinder_16/world_cylinder_16_79:
+feature:6 48.0666666667 0.122179561353 5.79510508512
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.113984503
+ ------------ 
+slim_cylinder_10/world_cylinder_10_0:
+feature:9 71.1388888889 0.0801293851575 8.98668071317
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.63449080957
+ ------------ 
+slim_cylinder_10/world_cylinder_10_1:
+feature:8 71.6071428571 0.0833640140956 8.28899985079
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.63449080957
+ ------------ 
+slim_cylinder_10/world_cylinder_10_2:
+feature:7 69.9047619048 0.0791563666965 8.85428235391
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 485.172857913
+ ------------ 
+slim_cylinder_10/world_cylinder_10_3:
+feature:7 57.2380952381 0.076421395887 4.58107771943
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 485.172857913
+ ------------ 
+slim_cylinder_10/world_cylinder_10_4:
+feature:9 75.6111111111 0.0801293851575 13.5140075143
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 89.5224308949
+ ------------ 
+slim_cylinder_10/world_cylinder_10_5:
+feature:8 53.3214285714 0.0800504917688 8.50402632923
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.76730779067
+ ------------ 
+slim_cylinder_10/world_cylinder_10_6:
+feature:7 58.0476190476 0.0772892231631 7.89300802356
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.543532819346
+ ------------ 
+slim_cylinder_10/world_cylinder_10_7:
+feature:8 73.2857142857 0.079208962289 6.41158485995
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 78.0750151481
+ ------------ 
+slim_cylinder_10/world_cylinder_10_8:
+feature:5 62.5 0.0797349182139 4.36383537268
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.84045771394
+ ------------ 
+slim_cylinder_10/world_cylinder_10_9:
+feature:9 77.1388888889 0.082653973597 12.8765910649
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.322668029717
+ ------------ 
+slim_cylinder_10/world_cylinder_10_10:
+feature:8 71.6071428571 0.0833640140956 8.01052401427
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.181663825029
+ ------------ 
+slim_cylinder_10/world_cylinder_10_11:
+feature:6 39.8 0.0756324619997 6.29005557868
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 302.529639498
+ ------------ 
+slim_cylinder_10/world_cylinder_10_12:
+feature:7 66.9047619048 0.071687792563 7.1916938383
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 112.352083519
+ ------------ 
+slim_cylinder_10/world_cylinder_10_13:
+feature:8 66.75 0.0696891600484 5.32890278865
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.1165624912
+ ------------ 
+slim_cylinder_10/world_cylinder_10_14:
+feature:7 47.8571428571 0.0791563666965 7.89320959873
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 276.505875329
+ ------------ 
+slim_cylinder_10/world_cylinder_10_15:
+feature:6 57.3333333333 0.0785252195866 6.57237358085
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 276.505875329
+ ------------ 
+slim_cylinder_10/world_cylinder_10_16:
+feature:6 56.3333333333 0.0731867669489 7.08453273244
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.93577830896
+ ------------ 
+slim_cylinder_10/world_cylinder_10_17:
+feature:7 53.619047619 0.0778940724767 8.21376416954
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 133.863563839
+ ------------ 
+slim_cylinder_10/world_cylinder_10_18:
+feature:9 73.8888888889 0.081365381581 7.97854696777
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 107.551858732
+ ------------ 
+slim_cylinder_10/world_cylinder_10_19:
+feature:9 70.0555555556 0.0833640140956 7.81998477406
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.905977654
+ ------------ 
+slim_cylinder_10/world_cylinder_10_20:
+feature:3 46.3333333333 0.081575763951 1.38719335083
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 107.974589695
+ ------------ 
+slim_cylinder_10/world_cylinder_10_21:
+feature:6 49.8 0.0741334876137 4.74653907602
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 107.974589695
+ ------------ 
+slim_cylinder_10/world_cylinder_10_22:
+feature:7 48.5238095238 0.071687792563 4.20227327765
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 75.934218013
+ ------------ 
+slim_cylinder_10/world_cylinder_10_23:
+feature:10 69.1777777778 0.0833640140956 7.67951057414
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 54.3014315986
+ ------------ 
+slim_cylinder_10/world_cylinder_10_24:
+feature:8 66.7142857143 0.0825224846158 6.94157914441
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 54.3014315986
+ ------------ 
+slim_cylinder_10/world_cylinder_10_25:
+feature:9 71.1388888889 0.0822069110609 7.00109567182
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 35.1198885078
+ ------------ 
+slim_cylinder_10/world_cylinder_10_26:
+feature:9 69.0833333333 0.0798401093988 8.90752829187
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.8191512305
+ ------------ 
+slim_cylinder_10/world_cylinder_10_27:
+feature:6 65.0 0.0789459843265 7.49521000411
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 82.7851678234
+ ------------ 
+slim_cylinder_10/world_cylinder_10_28:
+feature:10 73.2 0.0833640140956 9.07336478078
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.510292064
+ ------------ 
+slim_cylinder_10/world_cylinder_10_29:
+feature:9 61.25 0.0804712565087 13.6745382746
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 10.0496024035
+ ------------ 
+slim_cylinder_10/world_cylinder_10_30:
+feature:8 49.0714285714 0.0818650397097 8.75312244964
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 14.9285614471
+ ------------ 
+slim_cylinder_10/world_cylinder_10_31:
+feature:8 69.2857142857 0.0833640140956 5.95098466739
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.03263115872
+ ------------ 
+slim_cylinder_10/world_cylinder_10_32:
+feature:7 73.9523809524 0.0775784989218 9.52973493073
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 41.1298601203
+ ------------ 
+slim_cylinder_10/world_cylinder_10_33:
+feature:7 47.3333333333 0.0807079366749 6.69618105469
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.2475821039
+ ------------ 
+slim_cylinder_10/world_cylinder_10_34:
+feature:4 48.1666666667 0.0784726239941 5.38063061044
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 59.7966953028
+ ------------ 
+slim_cylinder_10/world_cylinder_10_35:
+feature:8 68.8214285714 0.0798927049913 7.97894712634
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 59.7966953028
+ ------------ 
+slim_cylinder_10/world_cylinder_10_36:
+feature:7 74.9523809524 0.0769736496082 8.55492505767
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.3643326864
+ ------------ 
+slim_cylinder_14/world_cylinder_14_0:
+feature:9 60.9722222222 0.0991952874349 6.43828754472
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.8994091967
+ ------------ 
+slim_cylinder_14/world_cylinder_14_1:
+feature:10 67.2444444444 0.111450060485 12.2779551415
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.6130602482
+ ------------ 
+slim_cylinder_14/world_cylinder_14_2:
+feature:11 59.8181818182 0.114316520276 11.7616194843
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.6130602482
+ ------------ 
+slim_cylinder_14/world_cylinder_14_3:
+feature:10 65.3777777778 0.112659759112 12.3992149104
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.6130602482
+ ------------ 
+slim_cylinder_14/world_cylinder_14_4:
+feature:11 67.0909090909 0.103455530427 11.2069209137
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 8.33210546204
+ ------------ 
+slim_cylinder_14/world_cylinder_14_5:
+feature:7 66.3333333333 0.107479093252 12.9771505256
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.6262190764
+ ------------ 
+slim_cylinder_14/world_cylinder_14_6:
+feature:9 59.0 0.110398148635 7.23799535372
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 19.9941252331
+ ------------ 
+slim_cylinder_14/world_cylinder_14_7:
+feature:8 31.5357142857 0.107163519697 8.2295032155
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 14.0195049347
+ ------------ 
+slim_cylinder_14/world_cylinder_14_8:
+feature:8 39.7142857143 0.111476358281 4.39319384861
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 33.4664453278
+ ------------ 
+slim_cylinder_14/world_cylinder_14_9:
+feature:9 53.8611111111 0.104849313628 8.85088847034
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.4420864322
+ ------------ 
+slim_cylinder_14/world_cylinder_14_10:
+feature:8 37.3928571429 0.114395413664 7.6436071821
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.078018981
+ ------------ 
+slim_cylinder_14/world_cylinder_14_11:
+feature:11 71.8727272727 0.112317887761 11.2941291618
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.654132756
+ ------------ 
+slim_cylinder_14/world_cylinder_14_12:
+feature:8 56.3928571429 0.11281754589 5.1643683376
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 56.5316500432
+ ------------ 
+slim_cylinder_14/world_cylinder_14_13:
+feature:9 58.9444444444 0.108294324936 8.44701449514
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 56.5316500432
+ ------------ 
+slim_cylinder_14/world_cylinder_14_14:
+feature:10 68.9111111111 0.109004365434 10.9824583972
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 56.5316500432
+ ------------ 
+slim_cylinder_14/world_cylinder_14_15:
+feature:7 51.6666666667 0.109609214748 6.99100819263
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 56.5316500432
+ ------------ 
+slim_cylinder_14/world_cylinder_14_16:
+feature:8 56.8214285714 0.105085993794 5.36659349572
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.2253276375
+ ------------ 
+slim_cylinder_14/world_cylinder_14_17:
+feature:10 61.6666666667 0.107847262399 10.6849590682
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.2253276375
+ ------------ 
+slim_cylinder_14/world_cylinder_14_18:
+feature:9 58.8333333333 0.112212696576 9.13042443424
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.2253276375
+ ------------ 
+slim_cylinder_14/world_cylinder_14_19:
+feature:9 47.8055555556 0.113448693 11.1786794422
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.2253276375
+ ------------ 
+slim_cylinder_14/world_cylinder_14_20:
+feature:8 58.7857142857 0.107873560196 8.09581601809
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 53.288045869
+ ------------ 
+slim_cylinder_14/world_cylinder_14_21:
+feature:9 66.6388888889 0.108767685268 12.7557387385
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 24.1283669701
+ ------------ 
+slim_cylinder_14/world_cylinder_14_22:
+feature:9 52.9444444444 0.111870825225 10.0054426648
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.853029762815
+ ------------ 
+slim_cylinder_14/world_cylinder_14_23:
+feature:9 45.1388888889 0.107820964603 10.3572679024
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.6970352955
+ ------------ 
+slim_cylinder_14/world_cylinder_14_24:
+feature:10 56.7555555556 0.112554567927 8.16172502372
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.0148365971
+ ------------ 
+slim_cylinder_14/world_cylinder_14_25:
+feature:5 36.1 0.107295008678 4.21294526649
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.0148365971
+ ------------ 
+slim_cylinder_14/world_cylinder_14_26:
+feature:8 45.3571428571 0.110555935413 9.61712697482
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.612638602544
+ ------------ 
+slim_cylinder_14/world_cylinder_14_27:
+feature:7 50.380952381 0.0979855888077 5.21494422365
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 32.8112259967
+ ------------ 
+slim_cylinder_14/world_cylinder_14_28:
+feature:10 72.0 0.112160100984 8.84906014965
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.700834431584
+ ------------ 
+slim_cylinder_14/world_cylinder_14_29:
+feature:11 65.3636363636 0.114448009257 7.11522357028
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 38.6392755864
+ ------------ 
+slim_cylinder_14/world_cylinder_14_30:
+feature:10 56.9555555556 0.108083942566 12.3991573993
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 39.0048068945
+ ------------ 
+slim_cylinder_14/world_cylinder_14_31:
+feature:8 68.6071428571 0.104297059906 7.38601391682
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.89186260319
+ ------------ 
+slim_cylinder_14/world_cylinder_14_32:
+feature:11 44.8 0.113001630463 10.131184134
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 42.1049788928
+ ------------ 
+slim_cylinder_14/world_cylinder_14_33:
+feature:11 71.9818181818 0.108583600694 11.2077937803
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.7640674198
+ ------------ 
+slim_cylinder_14/world_cylinder_14_34:
+feature:9 50.8888888889 0.105638247515 7.15916638909
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 37.3378936415
+ ------------ 
+slim_cylinder_14/world_cylinder_14_35:
+feature:6 54.7333333333 0.0987482248988 6.2103114194
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 23.3052285758
+ ------------ 
+slim_cylinder_14/world_cylinder_14_36:
+feature:8 67.6071428571 0.108899174249 4.69149460758
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.151941903999
+ ------------ 
+slim_cylinder_16/world_cylinder_16_0:
+feature:10 50.1555555556 0.125808657235 14.5612474757
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.0514680605949
+ ------------ 
+slim_cylinder_16/world_cylinder_16_1:
+feature:10 53.9111111111 0.122442539315 11.9854989139
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 25.6588326487
+ ------------ 
+slim_cylinder_16/world_cylinder_16_2:
+feature:7 46.3333333333 0.110003681691 7.44932059343
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.390601547328
+ ------------ 
+slim_cylinder_16/world_cylinder_16_3:
+feature:10 69.1777777778 0.116078472624 9.47563259018
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.138459319832
+ ------------ 
+slim_cylinder_16/world_cylinder_16_4:
+feature:8 59.6785714286 0.119444590543 9.03548108508
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.138459319832
+ ------------ 
+slim_cylinder_16/world_cylinder_16_5:
+feature:9 50.6944444444 0.115447325514 6.43142655093
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.9959583992
+ ------------ 
+slim_cylinder_16/world_cylinder_16_6:
+feature:11 53.0 0.120969862726 12.714642301
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.2306943839
+ ------------ 
+slim_cylinder_16/world_cylinder_16_7:
+feature:10 63.5777777778 0.121627307632 14.6668415438
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 43.1112301643
+ ------------ 
+slim_cylinder_16/world_cylinder_16_8:
+feature:8 49.7857142857 0.127018355862 7.53567152699
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.35155105416
+ ------------ 
+slim_cylinder_16/world_cylinder_16_9:
+feature:8 51.7142857143 0.12338925998 8.37852119383
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 30.3872486542
+ ------------ 
+slim_cylinder_16/world_cylinder_16_10:
+feature:8 59.2857142857 0.12359964235 11.3578913069
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.40470179999
+ ------------ 
+slim_cylinder_16/world_cylinder_16_11:
+feature:8 31.6785714286 0.12591384842 8.1416480021
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 1.40470179999
+ ------------ 
+slim_cylinder_16/world_cylinder_16_12:
+feature:7 45.9523809524 0.118681954452 6.38688743473
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.6055129291
+ ------------ 
+slim_cylinder_16/world_cylinder_16_13:
+feature:8 53.6071428571 0.113133119445 5.69231694231
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.6055129291
+ ------------ 
+slim_cylinder_16/world_cylinder_16_14:
+feature:7 43.380952381 0.123731131331 8.43471804411
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 31.3054528903
+ ------------ 
+slim_cylinder_16/world_cylinder_16_15:
+feature:10 49.0888888889 0.122626623889 11.0319407447
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 21.8930480437
+ ------------ 
+slim_cylinder_16/world_cylinder_16_16:
+feature:8 51.0 0.112212696576 5.04210024133
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.34791472
+ ------------ 
+slim_cylinder_16/world_cylinder_16_17:
+feature:8 51.0 0.13067374954 8.35135094744
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.34791472
+ ------------ 
+slim_cylinder_16/world_cylinder_16_18:
+feature:7 62.2857142857 0.121180245095 8.4675799254
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.0920786952
+ ------------ 
+slim_cylinder_16/world_cylinder_16_19:
+feature:11 60.9454545455 0.126176826382 12.3147404418
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.443325771241
+ ------------ 
+slim_cylinder_16/world_cylinder_16_20:
+feature:9 66.3888888889 0.117971913954 7.82645800006
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 13.6738261673
+ ------------ 
+slim_cylinder_16/world_cylinder_16_21:
+feature:10 54.3111111111 0.125203807921 14.7838664225
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.264200199108
+ ------------ 
+slim_cylinder_16/world_cylinder_16_22:
+feature:10 58.8444444444 0.119891653079 9.91008958429
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.0901367778959
+ ------------ 
+slim_cylinder_16/world_cylinder_16_23:
+feature:8 37.3571428571 0.118287487509 7.82773967576
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.0454351325093
+ ------------ 
+slim_cylinder_16/world_cylinder_16_24:
+feature:9 41.3333333333 0.117025193289 13.849374912
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.205782304
+ ------------ 
+slim_cylinder_16/world_cylinder_16_25:
+feature:10 55.8666666667 0.129358859728 10.9774047432
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.205782304
+ ------------ 
+slim_cylinder_16/world_cylinder_16_26:
+feature:9 56.0277777778 0.118655656656 8.83702594379
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 9.33966312196
+ ------------ 
+slim_cylinder_16/world_cylinder_16_27:
+feature:8 28.25 0.121416925262 7.81067408528
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.971393802
+ ------------ 
+slim_cylinder_16/world_cylinder_16_28:
+feature:9 51.5833333333 0.112212696576 8.52765722114
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 22.971393802
+ ------------ 
+slim_cylinder_16/world_cylinder_16_29:
+feature:8 53.3571428571 0.121811392205 9.74073058151
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.0416357337
+ ------------ 
+slim_cylinder_16/world_cylinder_16_30:
+feature:10 54.1333333333 0.11239678115 12.8303089938
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 8.79431780131
+ ------------ 
+slim_cylinder_16/world_cylinder_16_31:
+feature:6 30.2666666667 0.122574028296 8.55680984496
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 2.03778655199
+ ------------ 
+slim_cylinder_16/world_cylinder_16_32:
+feature:9 56.7222222222 0.123284068795 8.18347055513
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.7711400435
+ ------------ 
+slim_cylinder_16/world_cylinder_16_33:
+feature:8 43.25 0.117472255825 6.95199193725
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.281143945788
+ ------------ 
+slim_cylinder_16/world_cylinder_16_34:
+feature:8 44.1785714286 0.124257087256 7.92796717694
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.281143945788
+ ------------ 
+slim_cylinder_16/world_cylinder_16_35:
+feature:9 56.3333333333 0.129385157524 10.7322845578
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.281143945788
+ ------------ 
+slim_cylinder_16/world_cylinder_16_36:
+feature:11 59.6727272727 0.128228054489 8.407345943
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.118651590584
+ ------------ 
+slim_cylinder_16/world_cylinder_16_80:
+feature:8 41.8928571429 0.123415557776 7.09808131766
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 35.6069307838
+ ------------ 
+slim_cylinder_16/world_cylinder_16_81:
+feature:12 57.0606060606 0.124677851996 16.5807386528
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 35.6069307838
+ ------------ 
+slim_cylinder_16/world_cylinder_16_82:
+feature:9 49.0277777778 0.124467469626 6.45330994689
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 109.957706626
+ ------------ 
+slim_cylinder_16/world_cylinder_16_83:
+feature:8 57.4285714286 0.116131068216 13.4694488879
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 20.6545485135
+ ------------ 
+slim_cylinder_16/world_cylinder_16_84:
+feature:10 58.3333333333 0.120654289171 11.4080664356
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 52.4823611571
+ ------------ 
+slim_cylinder_16/world_cylinder_16_85:
+feature:9 51.9444444444 0.120943564929 8.42124818016
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 50.2040502576
+ ------------ 
+slim_cylinder_16/world_cylinder_16_86:
+feature:8 46.6071428571 0.122521432704 8.23831176859
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 28.1817791651
+ ------------ 
+slim_cylinder_16/world_cylinder_16_87:
+feature:9 56.9166666667 0.11155525167 10.0840625819
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 18.9399751032
+ ------------ 
+slim_cylinder_16/world_cylinder_16_88:
+feature:10 53.0888888889 0.123757429127 7.87486336765
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 18.9399751032
+ ------------ 
+slim_cylinder_16/world_cylinder_16_89:
+feature:10 51.1555555556 0.127649502972 8.66851914331
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 18.9399751032
+ ------------ 
+slim_cylinder_16/world_cylinder_16_90:
+feature:9 56.4166666667 0.130594856151 7.9871061406
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 29.6631034256
+ ------------ 
+slim_cylinder_16/world_cylinder_16_91:
+feature:9 71.2777777778 0.119602377321 10.2458410762
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 13.2151808799
+ ------------ 
+slim_cylinder_16/world_cylinder_16_92:
+feature:9 49.6388888889 0.119839057487 15.0085196081
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.5064277124
+ ------------ 
+slim_cylinder_16/world_cylinder_16_93:
+feature:11 57.7454545455 0.125598274865 12.0094774786
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 26.5064277124
+ ------------ 
+slim_cylinder_16/world_cylinder_16_94:
+feature:10 52.3111111111 0.125256403513 5.74615055946
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 15.5128832784
+ ------------ 
+slim_cylinder_16/world_cylinder_16_95:
+feature:11 57.0909090909 0.125598274865 15.865097461
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 15.5128832784
+ ------------ 
+slim_cylinder_16/world_cylinder_16_96:
+feature:7 34.5714285714 0.124335980645 7.19195290921
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 16.3593083406
+ ------------ 
+slim_cylinder_16/world_cylinder_16_97:
+feature:11 61.2363636364 0.124125598275 10.3909694551
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.759703838271
+ ------------ 
+slim_cylinder_16/world_cylinder_16_98:
+feature:10 69.2666666667 0.12359964235 8.29644042929
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 0.759703838271
+ ------------ 
+slim_cylinder_16/world_cylinder_16_99:
+feature:10 53.2222222222 0.116131068216 6.24627103341
+algorithmn_combine_best: global_planner/GlobalPlanner + dwa_local_planner/DWAPlannerROS
+plan_evaluation: 34.9495963661
+ ------------ 
+slim_cylinder_16/world_cylinder_16_80:
+feature:8 41.8928571429 0.123415557776 7.09808131766
+algorithmn_combine_best: global_planner/GlobalPlanner + base_local_planner/TrajectoryPlannerROS
+plan_evaluation: 118.633240897
+ ------------ 
+slim_cylinder_16/world_cylinder_16_81:
+feature:12 57.0606060606 0.124677851996 16.5807386528
+algorithmn_combine_best: global_planner/GlobalPlanner + eband_local_planner/EBandPlannerROS
+plan_evaluation: 4.61376695319
+ ------------ 
+slim_cylinder_16/world_cylinder_16_82:
+feature:9 49.0277777778 0.124467469626 6.45330994689
+algorithmn_combine_best: global_planner/GlobalPlanner + eband_local_planner/EBandPlannerROS
+plan_evaluation: 293.678760302
+ ------------ 
+slim_cylinder_16/world_cylinder_16_83:
+feature:8 57.4285714286 0.116131068216 13.4694488879
+algorithmn_combine_best: global_planner/GlobalPlanner + eband_local_planner/EBandPlannerROS
+plan_evaluation: 42.4945566507
+ ------------ 

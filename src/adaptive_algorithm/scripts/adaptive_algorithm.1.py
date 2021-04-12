@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-import rospy,os
+import rospy,os,time
 import math
 from nav_msgs.msg import OccupancyGrid
 from geometry_msgs.msg import PoseStamped,PoseWithCovarianceStamped
@@ -36,7 +36,9 @@ glb_costmap_shape = 200 # 全局代价地图的像素边长
 number_obstacles = 0 # 障碍物个数
 count_obstacle_pix=0 # 障碍物像素点个数
 risk_obstacles = 0  # 障碍物威胁程度
-
+base_global_planner =  rospy.get_param("/move_base/base_global_planner")
+base_local_planner = rospy.get_param("/move_base/base_local_planner")
+lock = False
 def write(msg):
     # 得到全局代价地图作为 self_costmap 的基础
     global data,first,obstacle_threshold
@@ -56,7 +58,7 @@ def write(msg):
 
 def pub_self_costmap(msg):
     global data,msg_costmap,resolution,glb_costmap_shape,meter_width,obstacle_threshold,count_obstacle_pix,len_self_costmap_data,pub_costmap
-
+    global lock
     #订阅到的小车的坐标信息
     x = msg.pose.pose.position.x  # 米单位下的位置
     y = msg.pose.pose.position.y
@@ -90,10 +92,10 @@ def pub_self_costmap(msg):
         max_pix_y = pix_y + (pix_width/2)
         min_pix_y = 0
 
-    rospy.loginfo("min_pix_x = " + str(min_pix_x))
-    rospy.loginfo("min_pix_y = " + str(min_pix_y))
-    rospy.loginfo("max_pix_x = " + str(max_pix_x))
-    rospy.loginfo("max_pix_y = " + str(max_pix_y))
+    # rospy.loginfo("min_pix_x = " + str(min_pix_x))
+    # rospy.loginfo("min_pix_y = " + str(min_pix_y))
+    # rospy.loginfo("max_pix_x = " + str(max_pix_x))
+    # rospy.loginfo("max_pix_y = " + str(max_pix_y))
 
     # 实际展示出来的自定义的代价地图的长宽以及数据
     self_costmap_width = int(max_pix_x-min_pix_x)
@@ -137,11 +139,14 @@ def pub_self_costmap(msg):
     len_self_costmap_data = len(self_costmap_data)
     # 像素值达到100 也就是认定为障碍物的像素点个数
     count_obstacle_pix = self_costmap_data.count(obstacle_threshold)
-    rospy.loginfo("----------len_self_costmap_data-----------"+str(len_self_costmap_data))
-    rospy.loginfo("------------count_obstacle_pix------------"+str(count_obstacle_pix))
+    # rospy.loginfo("----------len_self_costmap_data-----------"+str(len_self_costmap_data))
+    # rospy.loginfo("------------count_obstacle_pix------------"+str(count_obstacle_pix))
     
     ##########----------------------------------以下写入方法switch_algorithmn()，调用之----------------------------------
-    switch_algorithmn()
+    if  lock:
+        print("忽略")
+    else:
+        switch_algorithmn()
     ##########----------------------------------以上写入方法switch_algorithmn()，调用之----------------------------------
     #填充self_costmap_data并发布
     msg_costmap.data = self_costmap_data
@@ -151,28 +156,45 @@ def pub_self_costmap(msg):
 
 def switch_algorithmn():
     # 根据得到的 障碍物数
-    global count_obstacle_pix,len_self_costmap_data,base_global_planner
-    rospy.loginfo("--------------------------into switch_algorithmn----------------------------------")
+    global count_obstacle_pix,len_self_costmap_data
+    global base_global_planner,base_local_planner,lock
+    # rospy.loginfo("--------------------------into switch_algorithmn----------------------------------")
     base_global_planner = "" # 算法
     base_local_planner = ""
-    rospy.loginfo(1.0*count_obstacle_pix/len_self_costmap_data)
-    if 1.0*count_obstacle_pix/len_self_costmap_data < 0.10:
+    # rospy.loginfo(1.0*count_obstacle_pix/len_self_costmap_data)
+    if 1.0*count_obstacle_pix/len_self_costmap_data > 0.10:
+        base_global_planner = "global_planner/GlobalPlanner"
+        # base_local_planner = "base_local_planner/TrajectoryPlannerROS"
+        base_local_planner = "dwa_local_planner/DWAPlannerROS"
+        # rospy.loginfo("dwa_local_planner/DWAPlannerROS")
+    else:
+        # base_global_planner = "navfn/NavfnROS"
         base_global_planner = "global_planner/GlobalPlanner"
         base_local_planner = "eband_local_planner/EBandPlannerROS"
-        rospy.loginfo("eband_local_planner/EBandPlannerROS")
-    else:
-        base_global_planner = "global_planner/GlobalPlanner"
-        base_local_planner = "dwa_local_planner/DWAPlannerROS"
-        rospy.loginfo("dwa_local_planner/DWAPlannerROS")
+        # rospy.loginfo("eband_local_planner/EBandPlannerROS")
     # 判断算法组合是否修改,如果修改了,就对move_base进行动态调参
-    if base_local_planner != rospy.get_param("/move_base/base_local_planner"):
-        # sh_command = "rosrun dynamic_reconfigure dynparam set /move_base '{'base_global_planner': " + base_global_planner +", 'conservative_reset_dist': 3.0, 'groups': {'base_global_planner': "+ base_global_planner + ", 'planner_frequency': 5.0, 'parent': 0, 'conservative_reset_dist': 3.0, 'shutdown_costmaps': False, 'restore_defaults': False, 'groups': {}, 'oscillation_timeout': 10.0, 'id': 0, 'controller_patience': 15.0, 'name': 'Default', 'parameters': {}, 'type': '', 'clearing_rotation_allowed': True, 'state': True, 'oscillation_distance': 0.2, 'max_planning_retries': -1, 'base_local_planner': " + base_local_planner + " , 'recovery_behavior_enabled': True, 'planner_patience': 5.0, 'controller_frequency': 10.0}, 'controller_patience': 15.0, 'max_planning_retries': -1, 'shutdown_costmaps': False, 'clearing_rotation_allowed': True, 'restore_defaults': False, 'oscillation_distance': 0.2, 'planner_frequency': 5.0, 'oscillation_timeout': 10.0, 'base_local_planner': " + base_local_planner + "',recovery_behavior_enabled': True, 'planner_patience': 5.0, 'controller_frequency': 10.0}'"
+    base_local_planner_real = str(rospy.get_param("/move_base/base_local_planner"))
+    print(base_local_planner_real)
+    print(id(base_local_planner))
+    print(id(base_local_planner_real))
+    if base_local_planner != base_local_planner_real:
+        print(base_local_planner_real)
+        base_local_planner = base_local_planner_real
+        start_time = time.time()
         sh_command = "rosrun dynamic_reconfigure dynparam set /move_base '{'base_global_planner': "\
         + base_global_planner +", 'groups': {'base_global_planner': "\
         + base_global_planner + ", 'base_local_planner': " \
         + base_local_planner + " }, 'base_local_planner': " \
         + base_local_planner + "}'"
+        # sh_command = "rosrun dynamic_reconfigure dynparam set /move_base '{'base_global_planner': " + base_global_planner +\
+        # ", 'conservative_reset_dist': 3.0, 'groups': {'base_global_planner': "+ base_global_planner + \
+        # ", 'planner_frequency': 5.0, 'parent': 0, 'conservative_reset_dist': 3.0, 'shutdown_costmaps': False, 'restore_defaults': False, 'groups': {}, 'oscillation_timeout': 10.0, 'id': 0, 'controller_patience': 15.0, 'name': 'Default', 'parameters': {}, 'type': '', 'clearing_rotation_allowed': True, 'state': True, 'oscillation_distance': 0.2, 'max_planning_retries': -1, 'base_local_planner': " + base_local_planner + \
+        # " , 'recovery_behavior_enabled': True, 'planner_patience': 5.0, 'controller_frequency': 10.0}, 'controller_patience': 15.0, 'max_planning_retries': -1, 'shutdown_costmaps': False, 'clearing_rotation_allowed': True, 'restore_defaults': False, 'oscillation_distance': 0.2, 'planner_frequency': 5.0, 'oscillation_timeout': 10.0, 'base_local_planner': " + base_local_planner + \
+        # "',recovery_behavior_enabled': True, 'planner_patience': 5.0, 'controller_frequency': 10.0}'"
         os.system(sh_command) 
+        stop_time =time.time()
+        rospy.loginfo("切换算法{}".format(base_local_planner))
+        rospy.loginfo("调参时长{}".format(stop_time - start_time))
 
 def pub_self_costmap_temp(msg):
     global data,msg_costmap,resolution,glb_costmap_shape,meter_width,obstacle_threshold,pub_costmap

@@ -77,11 +77,12 @@ def PoseSub():
     #监控话题，并在回调函数中处理
     global pub_cd,pub_et,pub_pv,pub_tl,pub_ts
     rospy.init_node('pose_sub',anonymous=False)
-    rospy.Subscriber('/move_base_simple/goal',PoseStamped,PoseCallBack1)
-    rospy.Subscriber('/move_base/local_costmap/costmap',OccupancyGrid,PoseCallBack2)
-    rospy.Subscriber('/cmd_vel',Twist,PoseCallBack3)
+    rospy.Subscriber('/move_base_simple/goal',PoseStamped,PoseCallBackSubGoal)
+    rospy.Subscriber('/move_base/local_costmap/costmap',OccupancyGrid,SubCostmap)
+    rospy.Subscriber('/cmd_vel',Twist,SubCmd)
     # rospy.Subscriber('/move_base/global_costmap/costmap',OccupancyGrid,PoseCallBack5)
-    rospy.Subscriber('/amcl_pose',PoseWithCovarianceStamped,PoseCallBack4)
+    rospy.Subscriber('/amcl_pose',PoseWithCovarianceStamped,SubAmcl)
+    rospy.Subscriber('/start_switch',String,SubSwitch)
     
     pub_tl = rospy.Publisher('msg_tl', String, queue_size=10)
     pub_ts = rospy.Publisher('msg_ts', String, queue_size=10)
@@ -92,7 +93,12 @@ def PoseSub():
     rospy.spin()
     # print(closest_distance/(trajectory_length*excution_time+trajectory_smoothness))
     
-def PoseCallBack1(msg):
+def SubSwitch(msg):
+    global flag,flag_first
+    flag=True
+    flag_first=True
+    
+def PoseCallBackSubGoal(msg):
     global goal_x,goal_y,start_time,trajectory_length,count,flag,closest_distance,angle_sum,angle_vel,plan_evaluation,length_direct
 
 
@@ -105,21 +111,22 @@ def PoseCallBack1(msg):
     #     f.write(rospy.get_param("/move_base/base_global_planner") + " & " + \
     #     rospy.get_param("/move_base/base_local_planner") + "\nplan_evaluation:" + str(plan_evaluation) + "\n ------------ \n")
     #订阅到的目标的坐标信息
-    x = msg.pose.position.x
-    y = msg.pose.position.y
-    goal_x = x
-    goal_y = y
-    start_time=time.time()
-    count=0
-    trajectory_length = 0.01
-    flag=True
-    closest_distance = 14
-    angle_sum = 0
-    angle_vel = 0
-    flag_first=True
-    length_direct = 0
+    if flag_first:
+        x = msg.pose.position.x
+        y = msg.pose.position.y
+        goal_x = x
+        goal_y = y
+        start_time=time.time()
+        count=0
+        trajectory_length = 0.01
+        
+        closest_distance = 14
+        angle_sum = 0
+        angle_vel = 0
+
+        length_direct = 0
     
-def PoseCallBack2(msg):
+def SubCostmap(msg):
     global num,num_list
     
     #订阅到的地图的data信息
@@ -127,7 +134,7 @@ def PoseCallBack2(msg):
     num_list = list(num)
 
 
-def PoseCallBack3(msg):
+def SubCmd(msg):
     global cmd_vel_linear_x,cmd_vel_linear_y,cmd_vel_angular_x,cmd_vel_angular_y,cmd_vel_robot,angle_robot,angle_vel,angle_next
     
     #订阅到的小车的速度信息
@@ -144,7 +151,7 @@ def PoseCallBack3(msg):
     #     angle_next = angle_first
 
 
-def PoseCallBack4(msg):
+def SubAmcl(msg):
     global start_x,start_y,start_x1,start_y1,start_time,stop_time
     global excution_time,cmd_vel_linear_x,cmd_vel_linear_y,cmd_vel_angular_x,cmd_vel_angular_y,length_x,length_y
     global trajectory_smoothness,trajectory_length,angle_robot,angle_first,angle_first1,angle_sum,count
